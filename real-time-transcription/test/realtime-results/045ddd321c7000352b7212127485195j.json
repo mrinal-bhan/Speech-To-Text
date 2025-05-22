@@ -1,0 +1,25 @@
+{
+  "recordingId": "045ddd321c7000352b7212127485195j",
+  "source": "Azure/temp/045ddd321c7000352b7212127485195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "47000000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో.",
+      "offset": "96300000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "హలో.",
+      "offset": "126400000",
+      "duration": "1200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}
