@@ -1,0 +1,31 @@
+{
+  "recordingId": "a0fb7962804f0d88445b9a5ff130195c",
+  "source": "temp/a0fb7962804f0d88445b9a5ff130195c.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో హలో హలో.",
+      "offset": "21500000",
+      "duration": "15200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హా సర్ గురించి.",
+      "offset": "47900000",
+      "duration": "6400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "సర్ ఎయిర్పోర్ట్ అయిన డ్రాప్.",
+      "offset": "65100000",
+      "duration": "24400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఆ బాదు అపార్ట్మెంట్ అపార్ట్మెంట్, స్టెర్లింగ్, స్టెర్లింగ్ మ్యాక్స్ హోటల్స్, హోటల్ కి రిసెప్షన్ కి.",
+      "offset": "109200000",
+      "duration": "78400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

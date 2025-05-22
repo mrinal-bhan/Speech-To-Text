@@ -1,0 +1,43 @@
+{
+  "recordingId": "971cb4a2a0d81d6c0b5eb179b090195g",
+  "source": "temp/971cb4a2a0d81d6c0b5eb179b090195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "35200000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "100600000",
+      "duration": "4400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sir, Sir. Good afternoon, Sir, good afternoon.",
+      "offset": "119500000",
+      "duration": "24400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sir, my name is Rahul. I am calling on behalf of SBI Credit Card, Sir. Yeah.",
+      "offset": "160200000",
+      "duration": "46400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sir, I am speaking with Mr Vishnu, right? Vishnu, right, Sir. Right, Sir. Yeah, Sir, with the SBI credit card, Vardat Nagar, the transaction change amount ₹6385. Sir, naa Ki pade Mein EMI offer laundry.",
+      "offset": "223100000",
+      "duration": "142800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay, Sir. Thank you, Sir.",
+      "offset": "382000000",
+      "duration": "11200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

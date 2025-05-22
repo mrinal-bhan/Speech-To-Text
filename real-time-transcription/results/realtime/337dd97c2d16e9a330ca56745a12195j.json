@@ -1,0 +1,25 @@
+{
+  "recordingId": "337dd97c2d16e9a330ca56745a12195j",
+  "source": "temp/337dd97c2d16e9a330ca56745a12195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello.",
+      "offset": "19500000",
+      "duration": "4800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "34700000",
+      "duration": "2400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Arey arey.",
+      "offset": "54300000",
+      "duration": "12400000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

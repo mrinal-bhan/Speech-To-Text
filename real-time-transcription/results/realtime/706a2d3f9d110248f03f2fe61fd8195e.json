@@ -1,0 +1,13 @@
+{
+  "recordingId": "706a2d3f9d110248f03f2fe61fd8195e",
+  "source": "temp/706a2d3f9d110248f03f2fe61fd8195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "బండికి.",
+      "offset": "69000000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

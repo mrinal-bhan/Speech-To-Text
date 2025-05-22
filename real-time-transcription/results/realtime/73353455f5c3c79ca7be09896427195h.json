@@ -1,0 +1,115 @@
+{
+  "recordingId": "73353455f5c3c79ca7be09896427195h",
+  "source": "temp/73353455f5c3c79ca7be09896427195h.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "8700000",
+      "duration": "1200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో.",
+      "offset": "55100000",
+      "duration": "2800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "గుడ్‌ ఆఫ్టర్నూన్ హలో.",
+      "offset": "99000000",
+      "duration": "15600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "యామి ప్రొఫెషనల్ యూనివర్సిటీ.",
+      "offset": "159600000",
+      "duration": "15200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "విషయమై.",
+      "offset": "183500000",
+      "duration": "8400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "లవ్లీ ప్రొఫెషనల్ యూనివర్సిటీ ఎల్టీయూ.",
+      "offset": "209800000",
+      "duration": "24000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఓకే కెన్ గివ్ మీ మినిట్.",
+      "offset": "247100000",
+      "duration": "18800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "యా.",
+      "offset": "286900000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఎస్‌.",
+      "offset": "313900000",
+      "duration": "800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "",
+      "offset": "324000000",
+      "duration": "200800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "No, but I don't know how did you get my number.",
+      "offset": "534900000",
+      "duration": "27200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay, if in future you want to take admission ma'am, please connect her from change this number. Okay, but can you answer my question first? Already my number.",
+      "offset": "590000000",
+      "duration": "80000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "He is registered on website.",
+      "offset": "685300000",
+      "duration": "14000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "On your website.",
+      "offset": "709800000",
+      "duration": "10400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yes.",
+      "offset": "732600000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "No, I have. I don't even know what lovely professional university was.",
+      "offset": "746200000",
+      "duration": "31200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay, if in future if you want to recognition in MBA or something else then please connect to some change this number. Thank you so much, have a great day.",
+      "offset": "802300000",
+      "duration": "72000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Thank you.",
+      "offset": "883800000",
+      "duration": "4400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

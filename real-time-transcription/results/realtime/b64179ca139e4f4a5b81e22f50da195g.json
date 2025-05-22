@@ -1,0 +1,43 @@
+{
+  "recordingId": "b64179ca139e4f4a5b81e22f50da195g",
+  "source": "temp/b64179ca139e4f4a5b81e22f50da195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "20500000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "68600000",
+      "duration": "2800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay.",
+      "offset": "92700000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Cortana.",
+      "offset": "117900000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "166600000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK.",
+      "offset": "183100000",
+      "duration": "800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "recordingId": "788e06d06140c2155af2a01dec72195h",
+  "source": "temp/788e06d06140c2155af2a01dec72195h.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hi Kachekam 7 Saal, this is Keena calling. You still have 5 more interviews available. Remember clearing your skill test module test if available for the module is crucial before.",
+      "offset": "17300000",
+      "duration": "118000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

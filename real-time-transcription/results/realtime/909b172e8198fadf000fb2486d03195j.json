@@ -1,0 +1,25 @@
+{
+  "recordingId": "909b172e8198fadf000fb2486d03195j",
+  "source": "temp/909b172e8198fadf000fb2486d03195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello.",
+      "offset": "9600000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "31500000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, yeah, yeah, yeah.",
+      "offset": "46300000",
+      "duration": "22000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

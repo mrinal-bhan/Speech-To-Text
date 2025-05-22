@@ -1,0 +1,55 @@
+{
+  "recordingId": "55b3c0e933f55e30024dd98fa881195e",
+  "source": "temp/55b3c0e933f55e30024dd98fa881195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "22700000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో ఎక్కడ్రా?",
+      "offset": "35500000",
+      "duration": "16000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "బండి బండి బైక్ ఉందా? ఎవరిదైనా ఆ ఉంది ఉంది ఎవరిది?",
+      "offset": "67400000",
+      "duration": "92800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "అఖిల్ గాడు.",
+      "offset": "172700000",
+      "duration": "6800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "వాడు రాలేదా ఇంకా ఆహా వాడు సైడ్ వాడు థర్డ్ డే వస్తాడు సండే మార్నింగ్ ఎక్కడ ఉంటాడు.",
+      "offset": "190300000",
+      "duration": "49600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "అవునా సరే వస్తున్న బండి ద్వార ఏమో.",
+      "offset": "251900000",
+      "duration": "27600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఓ కెమెరా హోండా.",
+      "offset": "291900000",
+      "duration": "50000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "లేకపోతే ఆ లిఫ్ట్ లో పెడతా తీసుకో.",
+      "offset": "359600000",
+      "duration": "30800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

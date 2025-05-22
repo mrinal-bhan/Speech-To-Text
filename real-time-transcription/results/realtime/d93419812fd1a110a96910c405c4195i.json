@@ -1,0 +1,13 @@
+{
+  "recordingId": "d93419812fd1a110a96910c405c4195i",
+  "source": "temp/d93419812fd1a110a96910c405c4195i.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "54900000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

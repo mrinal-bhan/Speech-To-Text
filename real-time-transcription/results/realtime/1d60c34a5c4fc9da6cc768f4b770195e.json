@@ -1,0 +1,25 @@
+{
+  "recordingId": "1d60c34a5c4fc9da6cc768f4b770195e",
+  "source": "temp/1d60c34a5c4fc9da6cc768f4b770195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "हैलो।",
+      "offset": "17500000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "कैन यू हियर मी?",
+      "offset": "37500000",
+      "duration": "6000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "हैलो।",
+      "offset": "79100000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

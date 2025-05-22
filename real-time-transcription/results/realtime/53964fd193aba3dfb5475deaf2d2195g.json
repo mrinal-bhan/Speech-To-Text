@@ -1,0 +1,37 @@
+{
+  "recordingId": "53964fd193aba3dfb5475deaf2d2195g",
+  "source": "temp/53964fd193aba3dfb5475deaf2d2195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "12700000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello.",
+      "offset": "25100000",
+      "duration": "20800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello. Hello.",
+      "offset": "47600000",
+      "duration": "13200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yes. Who is this? Hello. Uh.",
+      "offset": "74400000",
+      "duration": "10400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello hello may I ever matlab Hindi Hindi.",
+      "offset": "111900000",
+      "duration": "51600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "recordingId": "0751a7815c04eb79de542b05a2a7195e",
+  "source": "temp/0751a7815c04eb79de542b05a2a7195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "18 Hello.",
+      "offset": "16500000",
+      "duration": "7200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, I Gujara.",
+      "offset": "43200000",
+      "duration": "14000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "You could uh uh, kunshu mundhukara bayan ayurvedamanukku ayurvedam.",
+      "offset": "77000000",
+      "duration": "56000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Right side Mundra.",
+      "offset": "141900000",
+      "duration": "23200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "244900000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, sure.",
+      "offset": "281900000",
+      "duration": "5200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "353900000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "467300000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "564900000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "584700000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Haan bhaiya.",
+      "offset": "606200000",
+      "duration": "12400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Picked up exact point in the point exact point.",
+      "offset": "648800000",
+      "duration": "30400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "But Python means pickup pickup location ah pickup location hai.",
+      "offset": "712100000",
+      "duration": "49600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I think SJ motor.",
+      "offset": "791100000",
+      "duration": "45600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Bed showrooma Hmm are the bike showroom bike repair?",
+      "offset": "859400000",
+      "duration": "52800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Miracle.",
+      "offset": "951100000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Kaunsa kaun se Maine kahaan hai.",
+      "offset": "1056300000",
+      "duration": "12000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Done.",
+      "offset": "1126600000",
+      "duration": "2800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "",
+      "offset": "1145600000",
+      "duration": "153600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Done.",
+      "offset": "1312300000",
+      "duration": "1600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "27.",
+      "offset": "1341200000",
+      "duration": "4800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

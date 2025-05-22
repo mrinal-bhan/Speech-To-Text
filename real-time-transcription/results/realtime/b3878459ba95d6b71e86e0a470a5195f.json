@@ -1,0 +1,25 @@
+{
+  "recordingId": "b3878459ba95d6b71e86e0a470a5195f",
+  "source": "temp/b3878459ba95d6b71e86e0a470a5195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello hello, uh, how are you? Around 2 minutes ago.",
+      "offset": "29500000",
+      "duration": "32800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I could gate number one. Dekar nanandi haan bhaiya theek hai aur Ek din.",
+      "offset": "72300000",
+      "duration": "50400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Call Atom.",
+      "offset": "137500000",
+      "duration": "8800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recordingId": "9894543c9d0346b482f2a6622c11195j",
+  "source": "temp/9894543c9d0346b482f2a6622c11195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello.",
+      "offset": "8000000",
+      "duration": "14000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, good afternoon Sir. Mein neetu prajapati baat kar rahi Hoon Sir Bajaj finance personal loan karega.",
+      "offset": "32700000",
+      "duration": "65600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

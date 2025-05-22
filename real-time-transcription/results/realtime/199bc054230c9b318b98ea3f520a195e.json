@@ -1,0 +1,163 @@
+{
+  "recordingId": "199bc054230c9b318b98ea3f520a195e",
+  "source": "temp/199bc054230c9b318b98ea3f520a195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "15100000",
+      "duration": "2400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "30700000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "69900000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "104200000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "146800000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Can you hear me?",
+      "offset": "199900000",
+      "duration": "7200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "229800000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "248700000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Can you hear me?",
+      "offset": "267500000",
+      "duration": "6400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "291400000",
+      "duration": "2400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "317100000",
+      "duration": "800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Arey Vaala. Book, Karen.",
+      "offset": "338700000",
+      "duration": "8400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "361500000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "All are booked. All are hello.",
+      "offset": "386300000",
+      "duration": "20400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Someone providing all insurance.",
+      "offset": "416300000",
+      "duration": "18400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "So.",
+      "offset": "467500000",
+      "duration": "1600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "501300000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, Hello. Hello.",
+      "offset": "544200000",
+      "duration": "14800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello. You guys just Hello. Hello, hello, hello.",
+      "offset": "575600000",
+      "duration": "46800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "633100000",
+      "duration": "2400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "693400000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "718800000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "736300000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sir.",
+      "offset": "750700000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello. Hello I reached service card room.",
+      "offset": "767100000",
+      "duration": "34800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "825800000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

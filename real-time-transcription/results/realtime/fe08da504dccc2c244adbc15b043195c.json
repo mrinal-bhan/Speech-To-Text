@@ -1,0 +1,13 @@
+{
+  "recordingId": "fe08da504dccc2c244adbc15b043195c",
+  "source": "temp/fe08da504dccc2c244adbc15b043195c.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Yeah, yeah, yeah.",
+      "offset": "4700000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

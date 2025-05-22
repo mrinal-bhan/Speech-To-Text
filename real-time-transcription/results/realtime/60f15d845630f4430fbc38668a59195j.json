@@ -1,0 +1,31 @@
+{
+  "recordingId": "60f15d845630f4430fbc38668a59195j",
+  "source": "temp/60f15d845630f4430fbc38668a59195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "The Hingora.",
+      "offset": "1500000",
+      "duration": "7200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, hello, hello.",
+      "offset": "25100000",
+      "duration": "18800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yes, Krishna, I am able to hear you.",
+      "offset": "60000000",
+      "duration": "12000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay, thank you. Thank you.",
+      "offset": "82700000",
+      "duration": "21200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

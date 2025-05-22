@@ -1,0 +1,25 @@
+{
+  "recordingId": "4e36a03849752338211537bbeafe195e",
+  "source": "temp/4e36a03849752338211537bbeafe195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "12600000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "39000000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Namaskar Axis Bank se Manish baat kar raha Hoon kaise hai Sir AAP.",
+      "offset": "60000000",
+      "duration": "34800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

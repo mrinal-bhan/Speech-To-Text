@@ -1,0 +1,31 @@
+{
+  "recordingId": "db9547b0746ea390ecb229e0af7e195j",
+  "source": "temp/db9547b0746ea390ecb229e0af7e195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "12900000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "When?",
+      "offset": "36300000",
+      "duration": "2400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "57900000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "84000000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

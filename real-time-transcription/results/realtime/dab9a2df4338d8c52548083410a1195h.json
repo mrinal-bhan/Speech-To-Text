@@ -1,0 +1,73 @@
+{
+  "recordingId": "dab9a2df4338d8c52548083410a1195h",
+  "source": "temp/dab9a2df4338d8c52548083410a1195h.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "15000000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello. Which number, Amanda?",
+      "offset": "33100000",
+      "duration": "16800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Are you location, Sir?",
+      "offset": "61900000",
+      "duration": "12000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "AA Gaya Yadav.",
+      "offset": "87500000",
+      "duration": "6800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Haan uplift Mein rakh door second floor ko.",
+      "offset": "106300000",
+      "duration": "20400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, uppala naveed.",
+      "offset": "148900000",
+      "duration": "12000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Lift me rakh do AAP aur second tour se bhej do.",
+      "offset": "176300000",
+      "duration": "20400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "List again.",
+      "offset": "218300000",
+      "duration": "12800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Kya.",
+      "offset": "251200000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Haan lift Mein rakho second floor daba do button.",
+      "offset": "293500000",
+      "duration": "20400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Thank you.",
+      "offset": "353100000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "recordingId": "807e40b7f19028ee0b68a27b83e4195g",
+  "source": "temp/807e40b7f19028ee0b68a27b83e4195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో హలో హలో సర్.",
+      "offset": "22400000",
+      "duration": "35600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "అచ్చా కాఫర్.",
+      "offset": "74300000",
+      "duration": "8800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "సర్.",
+      "offset": "107200000",
+      "duration": "1200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హైదరాబాద్ దగ్గర.",
+      "offset": "144700000",
+      "duration": "16800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "హెచ్‌డీ, హైదరాబాద్.",
+      "offset": "254000000",
+      "duration": "15600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఆహా బ్లాక్ కలర్ స్కార్పియో విక్రమ్.",
+      "offset": "282300000",
+      "duration": "20400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఆ బ్లాక్.",
+      "offset": "323900000",
+      "duration": "6400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "వైట్ కలర్ బ్రౌన్ కలర్, ఉపరికో.",
+      "offset": "346300000",
+      "duration": "54400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "రైట్‌.",
+      "offset": "420400000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

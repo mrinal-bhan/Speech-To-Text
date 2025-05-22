@@ -1,0 +1,13 @@
+{
+  "recordingId": "3c1d73572ef851c5f44a71c681d6195c",
+  "source": "temp/3c1d73572ef851c5f44a71c681d6195c.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello. Hello. How are you? Bye.",
+      "offset": "20700000",
+      "duration": "22400000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

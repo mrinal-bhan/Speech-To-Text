@@ -1,0 +1,85 @@
+{
+  "recordingId": "9a41b7fe6a69ebb7f4c565659e7b195g",
+  "source": "temp/9a41b7fe6a69ebb7f4c565659e7b195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "30700000",
+      "duration": "4800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "50400000",
+      "duration": "800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Can you turn off the mic on this?",
+      "offset": "71500000",
+      "duration": "20800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yes, Sir. Yeah. Hello. Am I audible now in this call?",
+      "offset": "100300000",
+      "duration": "32000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello. Yeah, hello.",
+      "offset": "144300000",
+      "duration": "19200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, hello. Am I audible?",
+      "offset": "163600000",
+      "duration": "5600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Your voice is very, very low.",
+      "offset": "181100000",
+      "duration": "18800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, is it? Am I audible now?",
+      "offset": "226700000",
+      "duration": "20800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "263500000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, hello. Am I audible? Hello, Krishnan.",
+      "offset": "280300000",
+      "duration": "24400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, you are audible to me. That voice is very low.",
+      "offset": "318700000",
+      "duration": "32000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, is it okay now? Is it clear?",
+      "offset": "365500000",
+      "duration": "25600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "I am able to hear what you are saying but look very very low. Its not than the normal code. Got it got it.",
+      "offset": "418100000",
+      "duration": "58000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

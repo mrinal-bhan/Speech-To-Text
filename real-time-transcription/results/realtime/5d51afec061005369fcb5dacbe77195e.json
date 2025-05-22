@@ -1,0 +1,19 @@
+{
+  "recordingId": "5d51afec061005369fcb5dacbe77195e",
+  "source": "temp/5d51afec061005369fcb5dacbe77195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో హలో.",
+      "offset": "11900000",
+      "duration": "15600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "వినిపిస్తదా?",
+      "offset": "40300000",
+      "duration": "6400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

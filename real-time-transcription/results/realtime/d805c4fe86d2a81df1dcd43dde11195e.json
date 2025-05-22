@@ -1,0 +1,25 @@
+{
+  "recordingId": "d805c4fe86d2a81df1dcd43dde11195e",
+  "source": "temp/d805c4fe86d2a81df1dcd43dde11195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "हैलो हौ अरे यू डूइंग?",
+      "offset": "13600000",
+      "duration": "13200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "टेक्स्ट।",
+      "offset": "46700000",
+      "duration": "5200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "",
+      "offset": "178400000",
+      "duration": "202800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

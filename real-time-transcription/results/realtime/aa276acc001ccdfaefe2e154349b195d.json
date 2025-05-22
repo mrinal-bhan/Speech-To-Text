@@ -1,0 +1,19 @@
+{
+  "recordingId": "aa276acc001ccdfaefe2e154349b195d",
+  "source": "temp/aa276acc001ccdfaefe2e154349b195d.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "हैलो।",
+      "offset": "14700000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ओके?",
+      "offset": "56400000",
+      "duration": "4800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "recordingId": "13dad5c29de88e40eccac799a7a4195c",
+  "source": "temp/13dad5c29de88e40eccac799a7a4195c.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "39000000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Ek minute. Ek minute.",
+      "offset": "148700000",
+      "duration": "12800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Ek Minute.",
+      "offset": "184000000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

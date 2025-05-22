@@ -1,0 +1,25 @@
+{
+  "recordingId": "42e0656a200b2cdbc2ff544b6d03195g",
+  "source": "temp/42e0656a200b2cdbc2ff544b6d03195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "8500000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "40800000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "81800000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "recordingId": "4a7f1a559989a70da74af910419a195j",
+  "source": "temp/4a7f1a559989a70da74af910419a195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello. Hey. Hi, Babu. Yeah, Hey, Hi. Yeah. Are you in office?",
+      "offset": "9900000",
+      "duration": "55600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I'm in office. OK, OK, we we see some calls have been being missed. Like did you see that in your call logs?",
+      "offset": "74300000",
+      "duration": "91600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Couple of times yesterday, day before yesterday you.",
+      "offset": "183100000",
+      "duration": "25600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, OK. Yeah, we also see that, uh, any specific reason? Did you observe any pattern something like that? I think network is an issue. Where are you exactly? I am in B2 C Bay now B to C bayon.",
+      "offset": "219900000",
+      "duration": "138800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK. I'll just be there. OK, OK, sure. Yeah.",
+      "offset": "375900000",
+      "duration": "36800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

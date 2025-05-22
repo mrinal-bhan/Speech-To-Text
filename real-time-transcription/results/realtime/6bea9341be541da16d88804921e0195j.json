@@ -1,0 +1,31 @@
+{
+  "recordingId": "6bea9341be541da16d88804921e0195j",
+  "source": "temp/6bea9341be541da16d88804921e0195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "25400000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "48100000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "72700000",
+      "duration": "6400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hey Krishna, I I'm on the call I have picked up it's already showing me the duration of ₹1415 but I'm not able to hear you.",
+      "offset": "109700000",
+      "duration": "59600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

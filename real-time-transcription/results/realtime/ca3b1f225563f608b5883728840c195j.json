@@ -1,0 +1,25 @@
+{
+  "recordingId": "ca3b1f225563f608b5883728840c195j",
+  "source": "temp/ca3b1f225563f608b5883728840c195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Good news for Math Fibernet. Reconnect now and upgrade to a faster, more reliable Internet with our new dual band router. Press one for callback.",
+      "offset": "13100000",
+      "duration": "94000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "140300000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "154700000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

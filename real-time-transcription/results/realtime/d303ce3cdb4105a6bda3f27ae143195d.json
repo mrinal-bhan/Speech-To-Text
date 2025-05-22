@@ -1,0 +1,25 @@
+{
+  "recordingId": "d303ce3cdb4105a6bda3f27ae143195d",
+  "source": "temp/d303ce3cdb4105a6bda3f27ae143195d.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello.",
+      "offset": "8800000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, yeah.",
+      "offset": "69100000",
+      "duration": "5200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "But I don't, I don't feel it right here.",
+      "offset": "94000000",
+      "duration": "14800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "recordingId": "a453aff9d834920afa84d2b3912f195j",
+  "source": "temp/a453aff9d834920afa84d2b3912f195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "23100000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hi Bharatha Sir, this side Hi Bhargav Ansul this side from v 360 dot AI. We had a word regarding our software last week and we have asked to connect later on the same. So can we discuss it right now?",
+      "offset": "39100000",
+      "duration": "106400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, yeah, yeah, of course. Tell me. OK, yeah. So basically we are an employee productivity tracking software. So here is how it works. So the V 360 dot e software gets installed on your employees machine and gives you clear analytics like how many hours they got, which apps they used and whether their time being spent productively or not. So it automatically helps you cut down time wasting. You can increase stay in focus and make faster decisions with the same. Are you using any similar kinds of software to manage your team?",
+      "offset": "159100000",
+      "duration": "259200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I think not exactly so we are using.",
+      "offset": "448500000",
+      "duration": "30800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Intercourse and like data for productivity.",
+      "offset": "498300000",
+      "duration": "38000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, got it. So maybe you are using some HRMS tool. So basically what 3360 dot ei is. We complement your existing Srms for providing some really updated features as well. So what I can suggest is we can also schedule a quick demo at your convenience time and I will walk you through the features in just 15 minutes, whatever time works best for you and then you can take the decision accordingly if it works for you or not.",
+      "offset": "552100000",
+      "duration": "219200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sure, maybe like.",
+      "offset": "807600000",
+      "duration": "12000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Its Friday, when will be the best time for that? Friday. Yeah okay with what time around?",
+      "offset": "842000000",
+      "duration": "65600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "I am just checking my calendar.",
+      "offset": "936400000",
+      "duration": "14800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sure.",
+      "offset": "961900000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Wednesday, 11:00 AM.",
+      "offset": "1085600000",
+      "duration": "10000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Wednesday you are saying?",
+      "offset": "1114400000",
+      "duration": "8800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, Wednesday 11, 21st Wednesday, 11:00 AM. Just a minute, confirm your mail ID. I'll share the calendar invite to you for the same. It's bharatha@equal.in, is it correct? Correct. That's right. Okay, I will drop a mail to you. Thank you so much. We'll connect later.",
+      "offset": "1134300000",
+      "duration": "166000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

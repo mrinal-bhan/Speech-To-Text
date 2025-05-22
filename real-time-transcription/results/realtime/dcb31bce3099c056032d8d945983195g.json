@@ -1,0 +1,49 @@
+{
+  "recordingId": "dcb31bce3099c056032d8d945983195g",
+  "source": "temp/dcb31bce3099c056032d8d945983195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Checking the.",
+      "offset": "1500000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "25100000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello, am I audible?",
+      "offset": "57900000",
+      "duration": "12400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yes, yes, you are audible. Krishna. Hello. Yeah. Is there any voice call to our call Panithesh from this call?",
+      "offset": "80700000",
+      "duration": "55600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "And it's a bit unclear, but I am able to hear what you are speaking.",
+      "offset": "159000000",
+      "duration": "32800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay, I am audible now. Is it clear now?",
+      "offset": "211300000",
+      "duration": "22800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, its its clear, Yeah cool, okay.",
+      "offset": "244700000",
+      "duration": "20000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

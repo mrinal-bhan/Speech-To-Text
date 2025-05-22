@@ -1,0 +1,55 @@
+{
+  "recordingId": "7cca611468ca2d519f3e5318d9e7195g",
+  "source": "temp/7cca611468ca2d519f3e5318d9e7195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello, hello, hello.",
+      "offset": "14100000",
+      "duration": "11200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "MM Hmm. Hello. Yes ma'am. Gandhi Nagar.",
+      "offset": "36700000",
+      "duration": "36400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sorry.",
+      "offset": "83500000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Keval baat kar raha Hoon Gandhinagar se.",
+      "offset": "97900000",
+      "duration": "15600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK Ji apne baat Hui thi naa wo 3 BHK regarding aapko khagar se kuchh Maine brochure vagairah bheji karti hai SAB ka.",
+      "offset": "125500000",
+      "duration": "65200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Haan Haan.",
+      "offset": "203100000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Uh toh phir lekin data huh now Ek file bata do unka factory working hota hai wo Sunday visit karenge achchha achchha okay, okay, theek hai.",
+      "offset": "220700000",
+      "duration": "86400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Huh.",
+      "offset": "327300000",
+      "duration": "1200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

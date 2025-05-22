@@ -1,0 +1,55 @@
+{
+  "recordingId": "a969a0f3f76109782b6fcb41e540195f",
+  "source": "temp/a969a0f3f76109782b6fcb41e540195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Yes, please can I talk to, uh, yes Sir.",
+      "offset": "24500000",
+      "duration": "72700000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yes. Who is this? Yeah. Hi, I'm calling. I'm calling from daily in office. OK. Just wanted to know you're preparing for NDA, No.",
+      "offset": "97600000",
+      "duration": "90400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Not preparing. So I mean you've not given cat.",
+      "offset": "199900000",
+      "duration": "23600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I have given cash.",
+      "offset": "235100000",
+      "duration": "8800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK. So you have, you haven't applied Amrita as well for NBA, Yeah, you apply it or not, No.",
+      "offset": "251500000",
+      "duration": "71200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "No. So would you like to go for no.",
+      "offset": "332700000",
+      "duration": "26000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Alright, OK, no problem then. Thank you.",
+      "offset": "368700000",
+      "duration": "21600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Thank you.",
+      "offset": "395500000",
+      "duration": "2800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

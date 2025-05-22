@@ -1,0 +1,43 @@
+{
+  "recordingId": "5632fca685fd53bc56af38fd3648195e",
+  "source": "temp/5632fca685fd53bc56af38fd3648195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "21600000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "38700000",
+      "duration": "2400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello. Hello. Hi.",
+      "offset": "54700000",
+      "duration": "27600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Ya.",
+      "offset": "88800000",
+      "duration": "800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Actually 2 minutes.",
+      "offset": "95500000",
+      "duration": "10400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "8 minutes. I will just give you a call. Wait. Hello, Nicole.",
+      "offset": "122300000",
+      "duration": "29200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recordingId": "b0f9e932c37e5361d807517eb250195f",
+  "source": "temp/b0f9e932c37e5361d807517eb250195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "54000000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఏమనండి?",
+      "offset": "88800000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

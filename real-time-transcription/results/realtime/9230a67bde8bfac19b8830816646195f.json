@@ -1,0 +1,37 @@
+{
+  "recordingId": "9230a67bde8bfac19b8830816646195f",
+  "source": "temp/9230a67bde8bfac19b8830816646195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "",
+      "offset": "234000000",
+      "duration": "66400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "",
+      "offset": "425200000",
+      "duration": "39600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "",
+      "offset": "464800000",
+      "duration": "202000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "",
+      "offset": "931400000",
+      "duration": "39600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "",
+      "offset": "1105800000",
+      "duration": "41200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

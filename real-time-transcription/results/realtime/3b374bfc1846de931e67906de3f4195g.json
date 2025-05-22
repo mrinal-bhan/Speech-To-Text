@@ -1,0 +1,49 @@
+{
+  "recordingId": "3b374bfc1846de931e67906de3f4195g",
+  "source": "temp/3b374bfc1846de931e67906de3f4195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో మీరు ప్లే రౌండ్ దగ్గర ఉన్నారా?",
+      "offset": "13900000",
+      "duration": "29600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "లేదన్న ఈక్వల్ సారీ మెన్స్ పీజీ ఉంది కదా.",
+      "offset": "57100000",
+      "duration": "33600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "మంచి పీజీ స్టేజి పక్కన కంపెనీ దగ్గర ఆపన్నారు. మీరేనా?",
+      "offset": "104300000",
+      "duration": "48000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "బర్గర్ కంపెనీ ఆ రైట్‌ నా నేనే.",
+      "offset": "168000000",
+      "duration": "20400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "అక్కడ అక్కడ సైడ్ తీసుకోండి.",
+      "offset": "206400000",
+      "duration": "12800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "స్టార్‌ వైట్ హౌస్‌ మెన్సిక్.",
+      "offset": "259900000",
+      "duration": "14400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "",
+      "offset": "296400000",
+      "duration": "188800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

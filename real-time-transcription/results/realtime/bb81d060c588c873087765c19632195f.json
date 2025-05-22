@@ -1,0 +1,73 @@
+{
+  "recordingId": "bb81d060c588c873087765c19632195f",
+  "source": "temp/bb81d060c588c873087765c19632195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "16300000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hey, how are you Sir? May I know I'm Ravi? Where are you? Yes, Sir. Kinda question.",
+      "offset": "31900000",
+      "duration": "44000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Oh OK, OK, correct cool. What happened? Nothing E voice call error audio will be.",
+      "offset": "85900000",
+      "duration": "60400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "All those siddh Ki asalo voice recording le do.",
+      "offset": "167600000",
+      "duration": "40000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "In booklet.",
+      "offset": "217500000",
+      "duration": "7200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "No acre square mera ve.",
+      "offset": "235100000",
+      "duration": "17200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "DNA no no comment baithana Hua tha comment Sir and Sid is better hai naa Sid ismein exotic dashboard.",
+      "offset": "263100000",
+      "duration": "68800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, after our call status no answer and jokes from the like what a call status hang up and recording later then hello Uh huh, recording later.",
+      "offset": "358000000",
+      "duration": "83600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "I will just come in 5 minutes to come up Sir, in the country you wait and.",
+      "offset": "450700000",
+      "duration": "34800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Oh, kind of. Bachnagar Park, yeah.",
+      "offset": "498700000",
+      "duration": "23600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, OK, fine. Bye, bye.",
+      "offset": "527100000",
+      "duration": "20800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

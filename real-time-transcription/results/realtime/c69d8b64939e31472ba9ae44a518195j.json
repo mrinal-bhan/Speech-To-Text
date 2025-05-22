@@ -1,0 +1,37 @@
+{
+  "recordingId": "c69d8b64939e31472ba9ae44a518195j",
+  "source": "temp/c69d8b64939e31472ba9ae44a518195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello.",
+      "offset": "7100000",
+      "duration": "13600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "43200000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Uh, hi. Uh, this is just calling from Microsoft. Yeah, Yeah, you are audible, Krishna.",
+      "offset": "71700000",
+      "duration": "52800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, uh, will you like to give any other number within this uh 60063 for testing? Uh currently we have this number uh, which is because the other number has that the users can get one phone. Just, uh, give me one minute.",
+      "offset": "146700000",
+      "duration": "158400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Uh huh. Just a minute. Sure.",
+      "offset": "327100000",
+      "duration": "18000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

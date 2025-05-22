@@ -1,0 +1,13 @@
+{
+  "recordingId": "22deed95399ed0beba56d0376087195j",
+  "source": "temp/22deed95399ed0beba56d0376087195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "You are amazing customer your IndusInd Bank cash loan of up to.",
+      "offset": "11800000",
+      "duration": "28800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

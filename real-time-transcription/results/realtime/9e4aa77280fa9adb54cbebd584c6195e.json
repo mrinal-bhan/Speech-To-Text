@@ -1,0 +1,19 @@
+{
+  "recordingId": "9e4aa77280fa9adb54cbebd584c6195e",
+  "source": "temp/9e4aa77280fa9adb54cbebd584c6195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Have you been testing and all? Hello.",
+      "offset": "4700000",
+      "duration": "22400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "46000000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

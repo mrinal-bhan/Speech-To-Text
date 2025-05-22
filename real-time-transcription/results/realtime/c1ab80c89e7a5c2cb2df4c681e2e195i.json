@@ -1,0 +1,19 @@
+{
+  "recordingId": "c1ab80c89e7a5c2cb2df4c681e2e195i",
+  "source": "temp/c1ab80c89e7a5c2cb2df4c681e2e195i.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "6500000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, this is your AI assistant from Vadruka School of Management, Hyderabad.",
+      "offset": "26100000",
+      "duration": "52400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

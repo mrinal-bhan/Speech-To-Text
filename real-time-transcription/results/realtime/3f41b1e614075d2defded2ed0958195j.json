@@ -1,0 +1,25 @@
+{
+  "recordingId": "3f41b1e614075d2defded2ed0958195j",
+  "source": "temp/3f41b1e614075d2defded2ed0958195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో హలో హలో హలో హలో హలో.",
+      "offset": "14700000",
+      "duration": "36400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "గుడ్‌ ఆఫ్టర్నూన్ సర్.",
+      "offset": "69900000",
+      "duration": "24000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "నేను టాటా కాపిటల్ కి కాల్ చేస్తున్నానండి.",
+      "offset": "107600000",
+      "duration": "20800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

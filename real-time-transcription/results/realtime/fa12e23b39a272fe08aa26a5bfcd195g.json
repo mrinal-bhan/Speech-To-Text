@@ -1,0 +1,181 @@
+{
+  "recordingId": "fa12e23b39a272fe08aa26a5bfcd195g",
+  "source": "temp/fa12e23b39a272fe08aa26a5bfcd195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "9400000",
+      "duration": "2400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello ma'am, Mariam Baat, Karen Property Advisor.",
+      "offset": "30700000",
+      "duration": "22800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Mujhe recommend your property switch Karna Ahmedabad Mein.",
+      "offset": "92800000",
+      "duration": "32400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Mm hmm.",
+      "offset": "133500000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "3 BHK dekh rahe hai ma'am.",
+      "offset": "149900000",
+      "duration": "16000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Haan Ji.",
+      "offset": "193100000",
+      "duration": "4800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Shilajan South bopal ye location ka kya kar rahe hai ma'am.",
+      "offset": "198400000",
+      "duration": "22000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Select.",
+      "offset": "270700000",
+      "duration": "4400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK, or budget 1835 Tak rahega kya aapka?",
+      "offset": "285200000",
+      "duration": "27600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Huh.",
+      "offset": "324700000",
+      "duration": "2400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Already now.",
+      "offset": "340300000",
+      "duration": "6000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Haan Ji.",
+      "offset": "367900000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay mere pass abhi aapke requirement se matching property available AA rahi hai ma'am.",
+      "offset": "384300000",
+      "duration": "62400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "So I'm going to check the system Hello.",
+      "offset": "463500000",
+      "duration": "22000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Haan Ji message property ka naam batakar aapko details share Kara dungi ma'am specifically khiladi Mein dekh rahe hai ya koi achchhi property hogi toh AAP decide bhee dekh sakte hai amli site.",
+      "offset": "498700000",
+      "duration": "90000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "No, no, says Shiloh ma'am Abhi shilaj Mein toh under construction Mein hai. Ready to go one Mein aata hai. Tum aapko confirm karti hai theek hai theek hai.",
+      "offset": "596300000",
+      "duration": "96800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Thanks.",
+      "offset": "703500000",
+      "duration": "2400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Excuse me aapne kaunsa area Bola Hoon.",
+      "offset": "734700000",
+      "duration": "20400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Haan Ji apne doosre area call ka bolo.",
+      "offset": "768300000",
+      "duration": "29200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Cause l Carina a n.",
+      "offset": "823900000",
+      "duration": "17200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Amir A MBLI.",
+      "offset": "861200000",
+      "duration": "15600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Vahaan per hai mere pass property Jo sellers hai naa ma'am Sheila se he aapka Jo cooperative ka distance hai Mein Ek bar bata deti Hoon aapko Agar AAP comfortable rahenge toh Mein details bhee aapko WhatsApp pay shirt Kara dungi.",
+      "offset": "896500000",
+      "duration": "108400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah ma'am, Sheila se aapka Jo property ka distance AA raha hai around wo ma'am available ho raha hai aapka 2.27 kilometer K radius Mein ma'am.",
+      "offset": "1022400000",
+      "duration": "76000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello Haan. Well that is not comfortable Rahega to Did you check around?",
+      "offset": "1123300000",
+      "duration": "40800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Haan Ji.",
+      "offset": "1206700000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Even with the cheque and liye ma'am mere ko itna idea nahi hai. Very new.",
+      "offset": "1220700000",
+      "duration": "30400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "So ma'am, actually mere pass Jo shilaj Mein abhi property hai naa uska Jo position hai wo April 2026 ka hai. Bhusale ka aapko nahi nahi wo toh AAP rahane lijie Mein bas ye dekhna amli kahaan hai mujhe nahi Pata amli ma'am Jo basically padta hai ma'am aapko bata deti Hoon Ek minute bhejega aage Jo aapka baithh kar hai ma'am Jo basically aapka iscon amli road hai naa vahaan se property 1.5 kilometer K radiation Mein rahegi Jo aapka Rajpath rangoli road hai naa usase ISS property Ki connectivity rahe.",
+      "offset": "1267900000",
+      "duration": "287200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Ahmedabad ke andar ho Gaye he nahi chalo Sir, thank you so much. Okay.",
+      "offset": "1564300000",
+      "duration": "48000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Thank you. Thanks.",
+      "offset": "1617200000",
+      "duration": "9200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

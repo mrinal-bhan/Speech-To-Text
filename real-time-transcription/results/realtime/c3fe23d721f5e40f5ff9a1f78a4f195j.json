@@ -1,0 +1,25 @@
+{
+  "recordingId": "c3fe23d721f5e40f5ff9a1f78a4f195j",
+  "source": "temp/c3fe23d721f5e40f5ff9a1f78a4f195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "28400000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "67600000",
+      "duration": "5600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hey, am I audible? Uh, you are not audible to me.",
+      "offset": "95900000",
+      "duration": "32800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

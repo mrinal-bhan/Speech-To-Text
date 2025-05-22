@@ -1,0 +1,25 @@
+{
+  "recordingId": "e872d26b95ad710335d087766352195f",
+  "source": "temp/e872d26b95ad710335d087766352195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "12000000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, I'm audible.",
+      "offset": "27100000",
+      "duration": "8000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Alright, alright, good.",
+      "offset": "56400000",
+      "duration": "8800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

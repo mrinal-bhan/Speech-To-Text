@@ -1,0 +1,19 @@
+{
+  "recordingId": "6995079980927f41ea2d08ce0396195c",
+  "source": "temp/6995079980927f41ea2d08ce0396195c.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "I don't explorer.",
+      "offset": "12300000",
+      "duration": "8400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "How can I get?",
+      "offset": "35100000",
+      "duration": "19200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recordingId": "ae9b2ef589d54eecd3e6ff7885e7195f",
+  "source": "temp/ae9b2ef589d54eecd3e6ff7885e7195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో హలో హలో ఆ భయం.",
+      "offset": "19700000",
+      "duration": "34000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హా ఉబెర్ వస్తున్నా భయ్యా.",
+      "offset": "80000000",
+      "duration": "15200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

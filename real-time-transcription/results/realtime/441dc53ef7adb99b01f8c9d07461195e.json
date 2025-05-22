@@ -1,0 +1,163 @@
+{
+  "recordingId": "441dc53ef7adb99b01f8c9d07461195e",
+  "source": "temp/441dc53ef7adb99b01f8c9d07461195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "To.",
+      "offset": "51700000",
+      "duration": "2400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello, Sir. Good morning. I'm satisfied calling from Axis Bank. Hello.",
+      "offset": "62900000",
+      "duration": "45600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "You are calling? Hello, ma'am. Yeah. Calling from? Yeah, I'm Harshiba. Calling from Axis Bank, Sir. Virtual management team, Sir. Am I speaking with Nadeer Hassan, Sir?",
+      "offset": "120500000",
+      "duration": "102400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yes, yes, hello. Yes. Thank you for the confirmation, Sir. This call will be recorded for quality and training purpose, Sir. OK. Uh Sir, the purpose of calling you is, are you going to do any fixed deposits and access ban, Sir?",
+      "offset": "235300000",
+      "duration": "126800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "No, no, no.",
+      "offset": "370900000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Fixed deposits like for example Sir if you deposit 50,000 then you will be getting for one year 3 months only. OK, you will be getting 54 one second Sir, I will tell you.",
+      "offset": "389700000",
+      "duration": "114400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "For one year, 3 months, Sir OK hmm. For one year, 3 months, for example, if you deposit 50,000 off amount, maturity value is ₹54,564 Sir, and rate of interest is 7.05%, Sir. OK In between one year, 3 years and 15 year. Because if you want to break the FD, you can break it OK. There is no locking period, Sir. If you want to withdraw the amount, you can withdraw your amount.",
+      "offset": "521000000",
+      "duration": "248000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK.",
+      "offset": "774900000",
+      "duration": "2800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Are you going to do fix the deposit, Sir? No, no, no nothing.",
+      "offset": "790100000",
+      "duration": "35600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, OK. Then, uh, Sir, are you having any, uh, health plans or term plan, investment plan, Sir, in Axis Bank.",
+      "offset": "837700000",
+      "duration": "85600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "No, no, no.",
+      "offset": "941300000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, then. Are you looking for a credit card, Sir?",
+      "offset": "962500000",
+      "duration": "40400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "What options do you have?",
+      "offset": "1017300000",
+      "duration": "13200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sir, hello.",
+      "offset": "1049300000",
+      "duration": "4800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "What credit card option are you providing?",
+      "offset": "1064100000",
+      "duration": "18000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uh, already you're running, uh, credit card site, Sir.",
+      "offset": "1113100000",
+      "duration": "31200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "What? What?",
+      "offset": "1153300000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Already you are running credit card right?",
+      "offset": "1170900000",
+      "duration": "16800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yes, yes.",
+      "offset": "1198100000",
+      "duration": "4800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah. Oh, yeah. OK.",
+      "offset": "1213700000",
+      "duration": "10800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "When are you going to do any investment plan? Sir? Guarantee return plans in Axis Bank is there OK mainly newly launched product or the Axis Bank is in Axis Bank one plan is there Sir. Guaranteed return plan means that if you pay only 15 years, OK, you will be getting from starting first year onwards you will be getting returns that is guaranteed returns for every year and after 15 years also you will be getting returns Sir Okay.",
+      "offset": "1238100000",
+      "duration": "276000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "The plan, the plan is not my pleasure, OK, and OK, OK, minimum amount is 50,000 amount, Sir, OK per year 50,000 you you have to uh do and you will be getting return uh in 50% Sir first year 50% you will be having return and second year on was 43% or 42%. You will be getting return Sir out of.",
+      "offset": "1529700000",
+      "duration": "236000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK, OK. If for your family Sir, health plan is there.",
+      "offset": "1806900000",
+      "duration": "36800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "What?",
+      "offset": "1854100000",
+      "duration": "4800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Health plan. Health plan.",
+      "offset": "1870100000",
+      "duration": "13200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "No, no, no, not required. Nothing. Nothing. Not required. Thank you. Oh, OK. OK. For single person health plan is there Sir? For No, no, no. Family health plan is there? No, no, no, nothing. Thank you.",
+      "offset": "1895300000",
+      "duration": "117600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

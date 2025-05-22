@@ -1,0 +1,19 @@
+{
+  "recordingId": "aee99ee5a7104b9485d57a0636a2195c",
+  "source": "temp/aee99ee5a7104b9485d57a0636a2195c.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "I got a call you.",
+      "offset": "9000000",
+      "duration": "20200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "System it was.",
+      "offset": "29600000",
+      "duration": "9600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "source": "https://callspeakerrecordings.blob.core.windows.net/recording-transcriptions/60f15d845630f4430fbc38668a59195j.mp3?sp=racwl&st=2025-05-21T14:21:47Z&se=2025-05-21T22:21:47Z&sv=2024-11-04&sr=c&sig=ydSse36%2Bha22%2B8AOuvDgnB3zZ0eZ4NfzPZlHWbzaQOg%3D",
+  "timestamp": "2025-05-21T14:56:26Z",
+  "duration": "PT11.24S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "hello hello hello hello yes krishna i am able to hear you okay thank you thank you sir just a second",
+      "itn": "hello hello hello hello yes krishna i am able to hear you okay thank you thank you sir just a second",
+      "maskedITN": "Hello Hello Hello. Hello. Yes, Krishna, I am able to hear you. Okay thank you Thank you Sir Just a second",
+      "display": "Hello. Hello. Hello. Hello. Yes, Krishna, I am able to hear you. Okay, thank you. Thank you, Sir. Just a second."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.12S",
+      "duration": "PT0.2S",
+      "nBest": [
+        {
+          "confidence": 0.19959074,
+          "lexical": "hello",
+          "itn": "hello",
+          "maskedITN": "Hello",
+          "display": "Hello.",
+          "words": [
+            {
+              "word": "hello",
+              "offset": "PT0.12S",
+              "duration": "PT0.2S",
+              "confidence": 0.19959074,
+              "offsetInTicks": 1200000.0,
+              "durationInTicks": 2000000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 1200000.0,
+      "durationInTicks": 2000000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.32S",
+      "duration": "PT0.28S",
+      "nBest": [
+        {
+          "confidence": 0.5513613,
+          "lexical": "hello",
+          "itn": "hello",
+          "maskedITN": "Hello",
+          "display": "Hello.",
+          "words": [
+            {
+              "word": "hello",
+              "offset": "PT0.32S",
+              "duration": "PT0.28S",
+              "confidence": 0.5513613,
+              "offsetInTicks": 3200000.0,
+              "durationInTicks": 2800000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 3200000.0,
+      "durationInTicks": 2800000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT2.44S",
+      "duration": "PT0.4S",
+      "nBest": [
+        {
+          "confidence": 0.35001087,
+          "lexical": "hello",
+          "itn": "hello",
+          "maskedITN": "Hello.",
+          "display": "Hello.",
+          "words": [
+            {
+              "word": "hello",
+              "offset": "PT2.44S",
+              "duration": "PT0.4S",
+              "confidence": 0.35001087,
+              "offsetInTicks": 24400000.0,
+              "durationInTicks": 4000000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 24400000.0,
+      "durationInTicks": 4000000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT4.08S",
+      "duration": "PT0.44S",
+      "nBest": [
+        {
+          "confidence": 0.573762,
+          "lexical": "hello",
+          "itn": "hello",
+          "maskedITN": "Hello.",
+          "display": "Hello.",
+          "words": [
+            {
+              "word": "hello",
+              "offset": "PT4.08S",
+              "duration": "PT0.44S",
+              "confidence": 0.573762,
+              "offsetInTicks": 40800000.0,
+              "durationInTicks": 4400000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 40800000.0,
+      "durationInTicks": 4400000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT5.84S",
+      "duration": "PT1.28S",
+      "nBest": [
+        {
+          "confidence": 0.58589613,
+          "lexical": "yes krishna i am able to hear you",
+          "itn": "yes krishna i am able to hear you",
+          "maskedITN": "Yes, Krishna, I am able to hear you.",
+          "display": "Yes, Krishna, I am able to hear you.",
+          "words": [
+            {
+              "word": "yes",
+              "offset": "PT5.84S",
+              "duration": "PT0.28S",
+              "confidence": 0.345291,
+              "offsetInTicks": 58400000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "word": "krishna",
+              "offset": "PT6.12S",
+              "duration": "PT0.36S",
+              "confidence": 0.1700193,
+              "offsetInTicks": 61200000.0,
+              "durationInTicks": 3600000.0
+            },
+            {
+              "word": "i",
+              "offset": "PT6.48S",
+              "duration": "PT0.12S",
+              "confidence": 0.4139829,
+              "offsetInTicks": 64800000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "word": "am",
+              "offset": "PT6.6S",
+              "duration": "PT0.08S",
+              "confidence": 0.67033756,
+              "offsetInTicks": 66000000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "word": "able",
+              "offset": "PT6.68S",
+              "duration": "PT0.16S",
+              "confidence": 0.93706846,
+              "offsetInTicks": 66800000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "word": "to",
+              "offset": "PT6.84S",
+              "duration": "PT0.08S",
+              "confidence": 0.9574186,
+              "offsetInTicks": 68400000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "word": "hear",
+              "offset": "PT6.92S",
+              "duration": "PT0.12S",
+              "confidence": 0.7314131,
+              "offsetInTicks": 69200000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "word": "you",
+              "offset": "PT7.04S",
+              "duration": "PT0.08S",
+              "confidence": 0.46163818,
+              "offsetInTicks": 70400000.0,
+              "durationInTicks": 800000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 58400000.0,
+      "durationInTicks": 12800000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT8.12S",
+      "duration": "PT0.76S",
+      "nBest": [
+        {
+          "confidence": 0.8007272,
+          "lexical": "okay thank you",
+          "itn": "okay thank you",
+          "maskedITN": "Okay thank you",
+          "display": "Okay, thank you.",
+          "words": [
+            {
+              "word": "okay",
+              "offset": "PT8.12S",
+              "duration": "PT0.44S",
+              "confidence": 0.46219146,
+              "offsetInTicks": 81200000.0,
+              "durationInTicks": 4400000.0
+            },
+            {
+              "word": "thank",
+              "offset": "PT8.56S",
+              "duration": "PT0.24S",
+              "confidence": 0.9628038,
+              "offsetInTicks": 85600000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "word": "you",
+              "offset": "PT8.8S",
+              "duration": "PT0.08S",
+              "confidence": 0.9771863,
+              "offsetInTicks": 88000000.0,
+              "durationInTicks": 800000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 81200000.0,
+      "durationInTicks": 7600000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT8.88S",
+      "duration": "PT0.44S",
+      "nBest": [
+        {
+          "confidence": 0.70200425,
+          "lexical": "thank you sir",
+          "itn": "thank you sir",
+          "maskedITN": "Thank you Sir",
+          "display": "Thank you, Sir.",
+          "words": [
+            {
+              "word": "thank",
+              "offset": "PT8.88S",
+              "duration": "PT0.2S",
+              "confidence": 0.9605465,
+              "offsetInTicks": 88800000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "word": "you",
+              "offset": "PT9.08S",
+              "duration": "PT0.08S",
+              "confidence": 0.9790853,
+              "offsetInTicks": 90800000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "word": "sir",
+              "offset": "PT9.2S",
+              "duration": "PT0.12S",
+              "confidence": 0.16638094,
+              "offsetInTicks": 92000000.0,
+              "durationInTicks": 1200000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 88800000.0,
+      "durationInTicks": 4400000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT9.76S",
+      "duration": "PT0.6S",
+      "nBest": [
+        {
+          "confidence": 0.41279247,
+          "lexical": "just a second",
+          "itn": "just a second",
+          "maskedITN": "Just a second",
+          "display": "Just a second.",
+          "words": [
+            {
+              "word": "just",
+              "offset": "PT9.76S",
+              "duration": "PT0.2S",
+              "confidence": 0.24729687,
+              "offsetInTicks": 97600000.0,
+              "durationInTicks": 2000000.0
+            },
+            {
+              "word": "a",
+              "offset": "PT9.96S",
+              "duration": "PT0.12S",
+              "confidence": 0.6724934,
+              "offsetInTicks": 99600000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "word": "second",
+              "offset": "PT10.08S",
+              "duration": "PT0.28S",
+              "confidence": 0.31858718,
+              "offsetInTicks": 100800000.0,
+              "durationInTicks": 2800000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 97600000.0,
+      "durationInTicks": 6000000.0
+    }
+  ],
+  "durationInTicks": 112400000
+}

@@ -1,0 +1,31 @@
+{
+  "recordingId": "91287ee26823cc6fada8fd38420e195g",
+  "source": "temp/91287ee26823cc6fada8fd38420e195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "15600000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "72400000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "123100000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Mm. Hmm.",
+      "offset": "160200000",
+      "duration": "4800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

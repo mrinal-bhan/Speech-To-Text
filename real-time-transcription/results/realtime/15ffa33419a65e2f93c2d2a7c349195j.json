@@ -1,0 +1,115 @@
+{
+  "recordingId": "15ffa33419a65e2f93c2d2a7c349195j",
+  "source": "temp/15ffa33419a65e2f93c2d2a7c349195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Very nice hello.",
+      "offset": "2700000",
+      "duration": "22800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "You can eat flight. Hello.",
+      "offset": "30400000",
+      "duration": "13200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "55500000",
+      "duration": "1600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Bhargava Neemachindani.",
+      "offset": "67900000",
+      "duration": "18000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello, hello, hello.",
+      "offset": "107500000",
+      "duration": "17200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uh huh. Yeah. Office. Bank only. Office equal.",
+      "offset": "200300000",
+      "duration": "34000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Equal need Academy office correct Kapande.",
+      "offset": "263500000",
+      "duration": "43200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "340600000",
+      "duration": "4400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Virat Kohli's restaurant.",
+      "offset": "356300000",
+      "duration": "11600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "",
+      "offset": "387100000",
+      "duration": "21600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Name of office or na ninna Nagu Hyderabad office okay building and Jabkar.",
+      "offset": "447100000",
+      "duration": "49600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Under buildings, remember?",
+      "offset": "541500000",
+      "duration": "39200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "What do you mean workspace laga hone ka chala building AA Jafar.",
+      "offset": "594800000",
+      "duration": "49200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Haan haan haan haan kharch karne Mein billing de rahe Hain kuchh.",
+      "offset": "653500000",
+      "duration": "24800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Maari Tees Shayad Dasavaan Idhar Shayad. The Shayad Tower 100.",
+      "offset": "687500000",
+      "duration": "43200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Oh, OK, OK. Couldn't. No, no.",
+      "offset": "744300000",
+      "duration": "18000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Ek Karen naa abhi actually Mein Kara.",
+      "offset": "775500000",
+      "duration": "21200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Name Name of Thailand Jupiter.",
+      "offset": "917500000",
+      "duration": "23600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

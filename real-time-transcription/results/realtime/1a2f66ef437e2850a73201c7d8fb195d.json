@@ -1,0 +1,31 @@
+{
+  "recordingId": "1a2f66ef437e2850a73201c7d8fb195d",
+  "source": "temp/1a2f66ef437e2850a73201c7d8fb195d.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Uh, are you? I think it is working good.",
+      "offset": "19000000",
+      "duration": "21200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "64100000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "100600000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "128800000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

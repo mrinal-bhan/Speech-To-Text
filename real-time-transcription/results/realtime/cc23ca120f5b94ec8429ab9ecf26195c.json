@@ -1,0 +1,13 @@
+{
+  "recordingId": "cc23ca120f5b94ec8429ab9ecf26195c",
+  "source": "temp/cc23ca120f5b94ec8429ab9ecf26195c.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "ఓం నమో వెంకటేసయ మేము, తిరుమల తిరుమల తిరుప‌తి దేవస్థానంలో నుండి మీ యొక్క విలువైన అభిప్రాయాన్ని తెలుసుకోవడానికి.",
+      "offset": "14600000",
+      "duration": "57200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "recordingId": "c2e4454142778f4c2119b5b33fe7195j",
+  "source": "temp/c2e4454142778f4c2119b5b33fe7195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "19700000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Am I audible?",
+      "offset": "65000000",
+      "duration": "8000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "No, you're her daughter.",
+      "offset": "113300000",
+      "duration": "11200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I can't hear.",
+      "offset": "135500000",
+      "duration": "5200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay, okay.",
+      "offset": "188700000",
+      "duration": "7600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

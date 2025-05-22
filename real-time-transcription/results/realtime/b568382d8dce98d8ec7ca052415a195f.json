@@ -1,0 +1,13 @@
+{
+  "recordingId": "b568382d8dce98d8ec7ca052415a195f",
+  "source": "temp/b568382d8dce98d8ec7ca052415a195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "ఏది?",
+      "offset": "70700000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

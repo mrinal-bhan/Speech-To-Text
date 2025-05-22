@@ -1,0 +1,67 @@
+{
+  "recordingId": "0284acf8557f9455f73bd2f8a181195j",
+  "source": "temp/0284acf8557f9455f73bd2f8a181195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "15100000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, I am Double Riteisha. Can you turn off the mic? Can you help me? Yeah, yeah. Hello. I am Audible Ravka.",
+      "offset": "50100000",
+      "duration": "68800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, yeah, you are audible.",
+      "offset": "133100000",
+      "duration": "15200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Can you? I want to see if the call is routed, Yeah.",
+      "offset": "157900000",
+      "duration": "33600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, yeah. I think I will show you that.",
+      "offset": "206300000",
+      "duration": "19200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, it is in outside area, this landline number itself, you know we will take hear you properly, okay.",
+      "offset": "254300000",
+      "duration": "61600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Can you try it from Madhavan away because he sell The thing is there right? Like the I2 C has got some Jio number if you are trying to call something is there anything like that happening?",
+      "offset": "323900000",
+      "duration": "73200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "We don't have any given money given the account.",
+      "offset": "413600000",
+      "duration": "21200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay, you have currently only this number, so any other number that we have because I think this is working time, you will see a couple of numbers left to 3 numbers and just try to figure out if something like this is happening. Sure, sure, perfect.",
+      "offset": "450900000",
+      "duration": "117600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah.",
+      "offset": "578300000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

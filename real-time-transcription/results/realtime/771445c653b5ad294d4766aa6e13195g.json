@@ -1,0 +1,61 @@
+{
+  "recordingId": "771445c653b5ad294d4766aa6e13195g",
+  "source": "temp/771445c653b5ad294d4766aa6e13195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "18800000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో.",
+      "offset": "42300000",
+      "duration": "2800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఇంట‌ర్నెట్.",
+      "offset": "65800000",
+      "duration": "4800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో.",
+      "offset": "115100000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఎస్‌ కృష్ణ‌ హలో.",
+      "offset": "140000000",
+      "duration": "7600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "విష్ణు ఇజ్జిత్, కాల్ ఫ్ర‌మ్, ఇన్‌కమింగ్ కాల్.",
+      "offset": "163100000",
+      "duration": "19600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఓకే ఓకే అడుగు.",
+      "offset": "275100000",
+      "duration": "22400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఐ ఏ‌ఎమ్ ఆడిబుల్ ఇజ్ దేర్ అనీ క్వాలిఫికేషన్స్ కాల్.",
+      "offset": "300000000",
+      "duration": "26800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఇట్స్ క్లియర్ ఓకే.",
+      "offset": "346200000",
+      "duration": "20800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

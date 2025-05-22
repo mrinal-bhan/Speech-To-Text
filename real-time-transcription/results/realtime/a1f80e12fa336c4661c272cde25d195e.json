@@ -1,0 +1,37 @@
+{
+  "recordingId": "a1f80e12fa336c4661c272cde25d195e",
+  "source": "temp/a1f80e12fa336c4661c272cde25d195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "लम्बा पे रिकॉर्ड देखो अब ये कॉल आईएम 36 थाउज़न्ड हाफ हाँ।",
+      "offset": "9900000",
+      "duration": "87200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "इसको ना अभी आप जब सुनो एम 36 थाउज़न्ड।",
+      "offset": "106000000",
+      "duration": "33600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "मैक्सिमॅम रिफंड मी?",
+      "offset": "157600000",
+      "duration": "8000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ये ये हाथ में है।",
+      "offset": "175100000",
+      "duration": "20800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "प्योर का?",
+      "offset": "237600000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

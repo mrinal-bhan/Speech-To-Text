@@ -1,0 +1,313 @@
+{
+  "recordingId": "4da7187076c4948781d6f8a38b97195e",
+  "source": "temp/4da7187076c4948781d6f8a38b97195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "11500000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hi, am I talking to Gaurav Ahuja?",
+      "offset": "25500000",
+      "duration": "30800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah.",
+      "offset": "69900000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Gaurav, my name is Prerna. I got your number from naukri.com. This is regarding a job opportunity that I want to discuss with you, OK.",
+      "offset": "82700000",
+      "duration": "90800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Is it a good time?",
+      "offset": "174000000",
+      "duration": "8400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, yeah, it's a good time.",
+      "offset": "195100000",
+      "duration": "10800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Thank you, Gaurav. Currently you have recently started working with equal identity. Can you tell me about the company, what the company is all about company is?",
+      "offset": "213900000",
+      "duration": "108000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Identity verification company basically lets say lets say for a company new journey comes and they want to verify their order and digital verification and everything so they does it for both those companies and also they have a bank account later also. Mm hmm mm hmm okay and you are working as a software engineer.",
+      "offset": "322800000",
+      "duration": "244800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Email but I want to understand that like you have recently joined so is it almost like your internship is getting over or what's the situation?",
+      "offset": "570700000",
+      "duration": "109200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "And what kind of roles you are looking for?",
+      "offset": "693500000",
+      "duration": "20000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah. So first of all, like I joined this company as software engineer, but as you know that it because of startup. So I kind of work with backend engineering and sometimes I I'm in a team in a basically an Ki team. So I get along with doing tasks that this test belongs to a I, but more of a I am a software engineer type of work which I am doing here, right.",
+      "offset": "727100000",
+      "duration": "285200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "So what kind of opportunity you are looking for?",
+      "offset": "1027500000",
+      "duration": "33200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "I am looking for super engineering. Also I am I am kindly looking for software engineering opportunities.",
+      "offset": "1078300000",
+      "duration": "66400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "But you do not want to be in front of customer at all.",
+      "offset": "1163600000",
+      "duration": "26800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sorry, you do not.",
+      "offset": "1207800000",
+      "duration": "18200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Want to be in front of customer at all?",
+      "offset": "1226400000",
+      "duration": "30000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Customer at all Like I wouldn't get the meaning of uh, sure. I'm asking, let's say there is a software engineer role for you. They're highly young people, but that rule require you, requires you to develop wherein I mean coding, but also handle customers, clients. Would you be would you be comfortable?",
+      "offset": "1270300000",
+      "duration": "208800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, I would be comfortable. There is no nothing like if the product is growing with the help of all those clients and obviously yeah.",
+      "offset": "1491900000",
+      "duration": "82800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "But you just said that. Go ahead. Yeah, I'm surely looking, I'm primarily looking for tools, those tools like companies where I would work primarily on the social media. But if if my working is based on a product which is, which is primarily based on like working with clients and then I have to refine the product, then it's time dependence. OK, for me then that was nice.",
+      "offset": "1598900000",
+      "duration": "250000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay, but, but you just said that you you speak with you talk to backend engineers also, right? And but this is not the part that you like, right?",
+      "offset": "1860300000",
+      "duration": "138400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Note the pass not like that I don't like it, its just that I love more coding than cold beef. Okay, okay, understood. And if you have to, if, if you have to develop anything, how good you are like what do you think uh you can.",
+      "offset": "2016300000",
+      "duration": "208800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, so here also I was developing an app kind of thing doing the pack and all these things. So we are a team of like 8 or 9. We first look out the making a POC of it. Then we start out the like having some all the ideas and all things giving inputs and all these ideas. And then after the POC is done, then we start our working on finding out things. What what boring, what the language is what text we.",
+      "offset": "2235100000",
+      "duration": "298400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Password with architectures architecture we will have so all these things we everyone will have an input on this. So these are kind of things which have started from scratch. Like we don't move like I don't like move really fast to doing the coding part where she first filled the foundation. Like I like to build the foundation of it. Like what text that I'm going to use, what architecture will have, what type of persons I'm catering to, what are the clients which are we can be catering to so and then moving on to.",
+      "offset": "2536300000",
+      "duration": "299200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, then moving into the building it like so all these things that I like to do things will be great and like how I do like for me I will say like some like 9 on 10. I do need some help senior sometimes, but pretty much I do for coding using Yeah. In terms of coding you are saying what is your language, your coding language? No.",
+      "offset": "2839900000",
+      "duration": "261600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "JavaScript, JavaScript and JavaScript.",
+      "offset": "3102400000",
+      "duration": "28000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "And same as our phone, BHK.",
+      "offset": "3141100000",
+      "duration": "28000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "And have you worked on cloud network?",
+      "offset": "3183100000",
+      "duration": "22000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, I have a little, I work little on cloud worker, not primarily, but yeah, it's given an opportunity. I will turn it faster. Yeah, Yeah, because your cloud network is really, really important. Also, I want to understand Gaurav, I don't see a lot of people on LinkedIn from this company do are they just building a team or they?",
+      "offset": "3215900000",
+      "duration": "250400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Have like recently started hiring? No, no, it's a team of like 100 or 120 people. Like if you go to the link in.",
+      "offset": "3466800000",
+      "duration": "85200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Equal identity, right? Equal identity. Then I just have the writing equal. Uh huh. Like yeah, it's not equal, it's just equal identity. Then you might see so many people around it in the people section. Okay, okay, yeah, that's why that's why I think, and there might be a slight mistake in part of me writing the speak well rather than equal identity in the resume itself.",
+      "offset": "3556700000",
+      "duration": "244800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Got it. Yeah, but if you have equal identity.",
+      "offset": "3812000000",
+      "duration": "24000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Equal identity? And what's your, uh, CCT right now?",
+      "offset": "3847100000",
+      "duration": "33600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "What's your CTC?",
+      "offset": "3893500000",
+      "duration": "22000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "CTP my CT is 60,00,000 of now.",
+      "offset": "3925900000",
+      "duration": "28400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Like full in full time conversion like I am doing an intern as of now only Jan to July then you have got the full time conversion also BPO right now the offers I won't go to the apparatus of no but numbers you can ask 15. So I am trying to negotiate it understood and what kind of offers you have like around what?",
+      "offset": "3965100000",
+      "duration": "255600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sorry, I can.",
+      "offset": "4237900000",
+      "duration": "16400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Like I don't have any other offer as of now but like in the college itself I am trying to like in the company the placement is the next coming one so like searching on that.",
+      "offset": "4274300000",
+      "duration": "112400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Can I get to know like from which company I am getting a call or Sure sure sure. My name is Prerna. I am calling from GCC X India. I am calling on behalf of Ashlyn A TLAN. Atlan is an active metadata platform that brings together metadata from all the stars applications.",
+      "offset": "4405500000",
+      "duration": "215200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay.",
+      "offset": "4631100000",
+      "duration": "2400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah. So the system and now they're growing their team, so that's why I was calling.",
+      "offset": "4643900000",
+      "duration": "46400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay.",
+      "offset": "4703500000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Alright, so is this a rule regarding like what, what the kind of role you talked about? You are you are talking to me, I am I am looking for a software engineer who is the problem solver but can build issues. So let's say if you have to, if there is a customer, there is a bug that the content team couldn't solve. So we need this person to debug, troubleshoot and then build.",
+      "offset": "4721100000",
+      "duration": "264800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Solutions according to that.",
+      "offset": "4990400000",
+      "duration": "14000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, got it. Yeah. And this is the type of work you tend to hear also.",
+      "offset": "5013500000",
+      "duration": "39600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, yeah. So, so that is the kind of opportunity one second.",
+      "offset": "5065900000",
+      "duration": "55600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I see. But you're saying you already have a lot of like you already working with the other companies like you're already?",
+      "offset": "5138300000",
+      "duration": "79200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "You know, you have kind of in discussion in other companies. So all of the companies that you have discussion with, are they like what kind of CTC they are offering and what is the like 41 or 2 companies? I haven't reached the like last round, so they haven't stated the number as of now.",
+      "offset": "5233200000",
+      "duration": "211200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "But uh, for this company, uh, right now only for this company, I have the offer and 4 other 2 companies and in the, I mean the rounds for like I have one technical round for one and other 2 technical one for us. And what is the offer that you? I am not asking for the company name. I am just asking for the offer so that I can see whether my company would match it or not.",
+      "offset": "5451100000",
+      "duration": "246800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Like, uh, what's your budget on, like on the role which you're, I would have budget of about 35, 40,00,000 also Gaurav, but that doesn't matter because even if you're shipping as 12 or 15, they won't give you 40 LP or 30 LP, right? So it doesn't matter what my company can offer. It matters that what is the percentage you are asking? Yeah.",
+      "offset": "5708700000",
+      "duration": "248400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Like right now as of like I have the proof of scheme, but I'm surely looking towards the 2021 category category, Yeah. So that's why I was asking.",
+      "offset": "5970400000",
+      "duration": "88400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Because I know my my clients will not give that kind of for hike. No problem. So thank you so much Gaurav for your time. Have a good day ahead. Bye. Yeah, thank you.",
+      "offset": "6063900000",
+      "duration": "97600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

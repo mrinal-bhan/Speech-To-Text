@@ -1,0 +1,55 @@
+{
+  "recordingId": "c2565fe8414a897b49d801477d2d195f",
+  "source": "temp/c2565fe8414a897b49d801477d2d195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello. Hi Sir, this is Monisha here calling you from Magic Breakfast.",
+      "offset": "14300000",
+      "duration": "54400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah. Tell me, am I audible? Right. Am I speaking with Bhargava? Mr Bhargava? Sorry. Tell me, tell me. Yes, Sir. Sir, in Magic Bricks portal, you have been checked the price of your property, right, Sir. Like present market value like you have been done a valuation of the property, right? Correct. Correct. Yeah. So is there any loan running on that property? So we have a home loan team as well. So I'm.",
+      "offset": "78300000",
+      "duration": "237600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, yeah, there is loan running on it.",
+      "offset": "348700000",
+      "duration": "18000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "For a balance transfer where the rate of interest is starting from 7.85% Sir, prior to your CIBIL.",
+      "offset": "416900000",
+      "duration": "62000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "So what is your current rate of interest?",
+      "offset": "511500000",
+      "duration": "18400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, not needed. So sorry, right now it's not needed. Thank you.",
+      "offset": "559900000",
+      "duration": "38000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK, Sir. OK. So if there is any requirement, please reach out to this number. So you will be also getting a cashback of 0.2% on the loan amount.",
+      "offset": "611100000",
+      "duration": "80000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, sure. Oh, thank you. Thank you.",
+      "offset": "701100000",
+      "duration": "19200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

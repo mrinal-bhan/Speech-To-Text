@@ -1,0 +1,13 @@
+{
+  "recordingId": "3ab879852a1bd6a98b192729499f195d",
+  "source": "temp/3ab879852a1bd6a98b192729499f195d.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Yes.",
+      "offset": "60600000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

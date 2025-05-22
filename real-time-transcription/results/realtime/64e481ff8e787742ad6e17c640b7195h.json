@@ -1,0 +1,19 @@
+{
+  "recordingId": "64e481ff8e787742ad6e17c640b7195h",
+  "source": "temp/64e481ff8e787742ad6e17c640b7195h.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "13000000",
+      "duration": "6000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Based on your consent and permission to contact you for providing IndusInd Bank service information, you are eligible for a guaranteed instant cash loan at lower, reduced rates and discounted.",
+      "offset": "27500000",
+      "duration": "111200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recordingId": "0c2fc53594192ee9300f6df31c64195d",
+  "source": "temp/0c2fc53594192ee9300f6df31c64195d.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "You too. Bye, Bye. Bye. Bye. Hello. Call me again, ma'am.",
+      "offset": "9300000",
+      "duration": "32400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I'll call you again. Yeah, yeah, call again. Take it.",
+      "offset": "56300000",
+      "duration": "32000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "recordingId": "3951f2b449a168ad3f4e7820ab15195j",
+  "source": "temp/3951f2b449a168ad3f4e7820ab15195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "No.",
+      "offset": "4300000",
+      "duration": "800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Yeah.",
+      "offset": "21100000",
+      "duration": "10800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "45100000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "73900000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Have you got a call? I got a call. I picked it up.",
+      "offset": "95600000",
+      "duration": "24400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "0006644.",
+      "offset": "154700000",
+      "duration": "28000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "9.",
+      "offset": "183200000",
+      "duration": "1600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "recordingId": "30861b2c541743d6f601770b896e195j",
+  "source": "temp/30861b2c541743d6f601770b896e195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "17500000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "51400000",
+      "duration": "5600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Am I audible?",
+      "offset": "76200000",
+      "duration": "4800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "101400000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "You are not audible.",
+      "offset": "142500000",
+      "duration": "9600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

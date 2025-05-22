@@ -1,0 +1,97 @@
+{
+  "recordingId": "4c560621f2d058c0f0447ecf2275195e",
+  "source": "temp/4c560621f2d058c0f0447ecf2275195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "12300000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, Sir. Good afternoon, Sir.",
+      "offset": "25900000",
+      "duration": "15200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello. Good afternoon Sir. Se baat kar raha Hoon.",
+      "offset": "49100000",
+      "duration": "16000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "AAP mistake liye naa Sir kaise lag raha hai Sir kya toh problem toh us nearby store koi gift kijiye service rahe toh Sir. Kaise Sir Mein aapka call suna hai matlab aapka voice sunai nahi mera boliye theek se bolie okay AB kab Tak ye Jana chaah rahe hai service rahega toh nearby store pay dekh lijiye Sir.",
+      "offset": "82600000",
+      "duration": "142400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Kidhar se baat kar raha hai AAP mujhe sunai nahi Realty.",
+      "offset": "239100000",
+      "duration": "43200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Voice break Ho raha, can you like repeat again?",
+      "offset": "298300000",
+      "duration": "23200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "335100000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, now I am able to hear you. Yeah.",
+      "offset": "347900000",
+      "duration": "21200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Lenskart se baat kar raha Hoon Sir abhi Mein. Lens cut. Okay, lens cut. Tell me what happened Sir aapka.",
+      "offset": "379100000",
+      "duration": "74000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sorry, fix the breaker up your voice.",
+      "offset": "492700000",
+      "duration": "16800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "524700000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "557100000",
+      "duration": "4800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "No, I am not able to hear your voice.",
+      "offset": "592700000",
+      "duration": "26800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay.",
+      "offset": "638900000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "683800000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

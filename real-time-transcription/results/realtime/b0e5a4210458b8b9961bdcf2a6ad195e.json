@@ -1,0 +1,13 @@
+{
+  "recordingId": "b0e5a4210458b8b9961bdcf2a6ad195e",
+  "source": "temp/b0e5a4210458b8b9961bdcf2a6ad195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "ఆంధ్ర‌ప్ర‌దేశ్‌.",
+      "offset": "21300000",
+      "duration": "7600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

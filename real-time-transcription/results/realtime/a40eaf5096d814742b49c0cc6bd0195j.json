@@ -1,0 +1,31 @@
+{
+  "recordingId": "a40eaf5096d814742b49c0cc6bd0195j",
+  "source": "temp/a40eaf5096d814742b49c0cc6bd0195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "11500000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hi sunai de raha hai kya?",
+      "offset": "41500000",
+      "duration": "10400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, yeah, maza AA rahi hai, but what is the call ka issue hai it probably.",
+      "offset": "61100000",
+      "duration": "52000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "It's not.",
+      "offset": "127500000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

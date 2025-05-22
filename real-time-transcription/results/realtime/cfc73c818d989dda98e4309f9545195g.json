@@ -1,0 +1,13 @@
+{
+  "recordingId": "cfc73c818d989dda98e4309f9545195g",
+  "source": "temp/cfc73c818d989dda98e4309f9545195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Br Axis Bank customer.",
+      "offset": "14900000",
+      "duration": "18300000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

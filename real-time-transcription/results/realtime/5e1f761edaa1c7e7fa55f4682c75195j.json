@@ -1,0 +1,19 @@
+{
+  "recordingId": "5e1f761edaa1c7e7fa55f4682c75195j",
+  "source": "temp/5e1f761edaa1c7e7fa55f4682c75195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "We have, uh, the fire extinguisher everywhere. Hello. Good afternoon, Sir. Tell me.",
+      "offset": "13400000",
+      "duration": "58800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Foundation, same address.",
+      "offset": "99600000",
+      "duration": "13200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

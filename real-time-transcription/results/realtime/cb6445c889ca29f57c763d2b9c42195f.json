@@ -1,0 +1,19 @@
+{
+  "recordingId": "cb6445c889ca29f57c763d2b9c42195f",
+  "source": "temp/cb6445c889ca29f57c763d2b9c42195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "9500000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello hello hello hello Kapil Sir baat kar rahe hai hi anuj baat kar raha Hoon understand Thanks Sir AA Gaya abhiyan bank aapko Ek lifetime free credit card offer kar raha hai Sir jis card Mein Sir nahi nahi sorry.",
+      "offset": "35600000",
+      "duration": "152400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

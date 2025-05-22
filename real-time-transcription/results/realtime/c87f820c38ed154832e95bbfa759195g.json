@@ -1,0 +1,19 @@
+{
+  "recordingId": "c87f820c38ed154832e95bbfa759195g",
+  "source": "temp/c87f820c38ed154832e95bbfa759195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "15200000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, is my voice is clear now? Yeah, I am getting your voice. Okay, okay. Thank you, thank you.",
+      "offset": "33100000",
+      "duration": "61200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

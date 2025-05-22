@@ -1,0 +1,157 @@
+{
+  "recordingId": "e7c231923336d74e1fa68ff01f8b195f",
+  "source": "temp/e7c231923336d74e1fa68ff01f8b195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello.",
+      "offset": "15100000",
+      "duration": "15600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, hello. Hello. Hello, ma'am. Hello. Hello, hello.",
+      "offset": "46800000",
+      "duration": "37600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Ma'am ma'am Mein prajapati kunal baat kar raha Hoon aapki magic breakfast enquiry thi hamaare project ke liye vinayak toh aapko Jo dekhi rahe haan Ji number Mein property just give me Vinay vinayak sargasan.",
+      "offset": "107500000",
+      "duration": "127600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay.",
+      "offset": "257900000",
+      "duration": "10400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Options or prices here? Yes, yes, AAP kitne baje Tak le rahe ho ma'am.",
+      "offset": "277600000",
+      "duration": "56000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Kitne budget yes rent pe dekh rahe ho self payment nahi nahi Sir.",
+      "offset": "348700000",
+      "duration": "48400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK.",
+      "offset": "421900000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hamaara Jo project hai uski all inclusive rahenge 1.2 CR I yani Ek karod do laakh rupees hai. All enclosure do laakh negotiable yes 8,02,00,000 bol raha yes yes Ek karod do laakh negotiable okay.",
+      "offset": "450400000",
+      "duration": "171200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Aur kitna area hai.",
+      "offset": "622400000",
+      "duration": "30800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uska Area Jo Purana Super Villa Phir Toh 240.",
+      "offset": "668700000",
+      "duration": "48000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "3 square years flat.",
+      "offset": "728300000",
+      "duration": "14400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Super Builder.",
+      "offset": "773600000",
+      "duration": "6000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Supervision.",
+      "offset": "798600000",
+      "duration": "6000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Achchha project new hai superb hai. Jo abhi new project AA rahe hai. Usmein super build of area jyaada rahta hai.",
+      "offset": "817500000",
+      "duration": "62800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Whenever ready to move it again ha ready to movie hai ma'am DU Ki AA Gaya hai haan just abhi suggestion after one month SAB ko diya hai.",
+      "offset": "895500000",
+      "duration": "103200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Achchha de diya hai.",
+      "offset": "1015100000",
+      "duration": "11600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Abhi just Ek mahine pahle he di hai lagbhag chaar se paanch chandi rahane ke liye AA gayi.",
+      "offset": "1048300000",
+      "duration": "46000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK.",
+      "offset": "1121700000",
+      "duration": "10400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "AAP mujhe bhej sakte hai Sir. Kuchh matlab kuchh bhee details haan haan details Mein aapko saath haan Yes, yes, yes sure Mein aapko details bhejata Hoon ma'am.",
+      "offset": "1150700000",
+      "duration": "86400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK umm his biggest price 1.0 up of 80 unit after that means both saare option hai Ek bar AAP ia dekhiye Ji Ji theek hai AAP mujhe Ek bar WhatsApp kar dijiye OK aapka aapka valid jaan sakta Hoon ma'am budget 18 is there.",
+      "offset": "1247500000",
+      "duration": "167600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK, around 95.",
+      "offset": "1424300000",
+      "duration": "22000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "9090 Tak kyonki hamein use for anything vagairah bhee karvana hoga toh yes yes toh Ek bar AAP project dekh lijiye Agar aapko pasand aata hai toh kuchh dekh lete hai usme loan amount bhee aapka sufficient ho jaayega toh uske bhee aapko dikkat nahi rahegi.",
+      "offset": "1458700000",
+      "duration": "135600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Kuchh included hai parking SAB kuchh hai Yes, yes, yes, yes.",
+      "offset": "1620800000",
+      "duration": "30400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uske baad kuchh bhee nahi hai meri naa hmm nahi hai usme bhee hum log price negotiable aapko kar denge ma'am Ek AAP mujhe Ek bar details bhejiye aur sample category vagairah Ki picture wo bhee dijiye.",
+      "offset": "1669600000",
+      "duration": "106800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK, Sir, you too. OK.",
+      "offset": "1783500000",
+      "duration": "27600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

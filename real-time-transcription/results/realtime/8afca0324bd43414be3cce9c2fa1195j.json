@@ -1,0 +1,31 @@
+{
+  "recordingId": "8afca0324bd43414be3cce9c2fa1195j",
+  "source": "temp/8afca0324bd43414be3cce9c2fa1195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో హలో.",
+      "offset": "15100000",
+      "duration": "8000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో హలో.",
+      "offset": "33900000",
+      "duration": "14400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "హలో.",
+      "offset": "77500000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో.",
+      "offset": "116600000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

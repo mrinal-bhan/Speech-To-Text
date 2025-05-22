@@ -1,0 +1,25 @@
+{
+  "recordingId": "174906aaffa72b56654fe20c4922195e",
+  "source": "temp/174906aaffa72b56654fe20c4922195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "6300000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "37400000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello haan bhaiya AA raha Hoon bhaiya do minute bhaiya.",
+      "offset": "68400000",
+      "duration": "25200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

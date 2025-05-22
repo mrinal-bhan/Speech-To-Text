@@ -1,0 +1,31 @@
+{
+  "recordingId": "f7a12294168f1397ea2fec99c06c195j",
+  "source": "temp/f7a12294168f1397ea2fec99c06c195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "12400000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఏంటిది? కొంచెం ఏమంటారు?",
+      "offset": "105500000",
+      "duration": "27200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఓకే ఓకే. ఇప్పుడు ఇప్పుడు బెటర్.",
+      "offset": "159100000",
+      "duration": "15200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఇప్పుడు కొంచెం బెటర్. ఓకే ఓకే.",
+      "offset": "183900000",
+      "duration": "23200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

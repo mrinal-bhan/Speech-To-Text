@@ -1,0 +1,109 @@
+{
+  "recordingId": "cbb005bfc13f396ad27a6cd6cbf7195j",
+  "source": "temp/cbb005bfc13f396ad27a6cd6cbf7195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello.",
+      "offset": "27900000",
+      "duration": "18000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "47600000",
+      "duration": "2800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Transformer Takkar.",
+      "offset": "151900000",
+      "duration": "10000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Ajay, Sir and then K town gate of Standard.",
+      "offset": "183200000",
+      "duration": "35600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Then gate option.",
+      "offset": "239500000",
+      "duration": "14000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hai.",
+      "offset": "298700000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK.",
+      "offset": "340700000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "",
+      "offset": "406700000",
+      "duration": "20400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Transformer.",
+      "offset": "441200000",
+      "duration": "15600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Location Hyderabad.",
+      "offset": "519600000",
+      "duration": "17600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Uh, I think in the area.",
+      "offset": "584300000",
+      "duration": "18000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Location or if the location corrected exactly.",
+      "offset": "637700000",
+      "duration": "50000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "I wanna speak back 94 by zero.",
+      "offset": "813900000",
+      "duration": "34400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Ah, flat number.",
+      "offset": "899600000",
+      "duration": "34400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "10 minute. 10 minute.",
+      "offset": "960000000",
+      "duration": "10800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, I don't know.",
+      "offset": "1143200000",
+      "duration": "18800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay, Sir. Okay, Sir.",
+      "offset": "1184400000",
+      "duration": "11200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

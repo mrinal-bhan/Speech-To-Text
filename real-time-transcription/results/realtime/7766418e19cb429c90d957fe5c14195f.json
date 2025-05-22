@@ -1,0 +1,73 @@
+{
+  "recordingId": "7766418e19cb429c90d957fe5c14195f",
+  "source": "temp/7766418e19cb429c90d957fe5c14195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "हाँ।",
+      "offset": "40100000",
+      "duration": "800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "",
+      "offset": "72000000",
+      "duration": "202000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello, good afternoon, Sir. This is Rana Pratap speaking from Axis Bank from VRM team.",
+      "offset": "671700000",
+      "duration": "35200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "725500000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "754100000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, Sir.",
+      "offset": "791200000",
+      "duration": "5600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "826700000",
+      "duration": "2400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello Sir, call me at the response. Ho jayegi Sir, call disconnect ho Jaayega.",
+      "offset": "891300000",
+      "duration": "29200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello Sir call may I have the response ho jaayegi Sir neither call disconnect ho jaayega.",
+      "offset": "944700000",
+      "duration": "29200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "999600000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "",
+      "offset": "1010400000",
+      "duration": "200400000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

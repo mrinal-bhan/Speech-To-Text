@@ -1,0 +1,37 @@
+{
+  "recordingId": "a84574c523d85eac81154a8eaca4195e",
+  "source": "temp/a84574c523d85eac81154a8eaca4195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Okay, hello.",
+      "offset": "3500000",
+      "duration": "21600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello.",
+      "offset": "35500000",
+      "duration": "10800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, hello.",
+      "offset": "58700000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sir, good evening mere liye AAP kar rahi thi personal loan department se kuchh requirement dekh rahi thi kya loan ke liye.",
+      "offset": "80800000",
+      "duration": "51200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "AAP baad Mein call kiziega bye bye.",
+      "offset": "146700000",
+      "duration": "18800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

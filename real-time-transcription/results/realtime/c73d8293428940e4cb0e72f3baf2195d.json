@@ -1,0 +1,31 @@
+{
+  "recordingId": "c73d8293428940e4cb0e72f3baf2195d",
+  "source": "temp/c73d8293428940e4cb0e72f3baf2195d.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "38300000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, Sir. Uh, Shashika. Hi, Sir. Uh, good evening, Sir. Yeah, who is?",
+      "offset": "62200000",
+      "duration": "49600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Near Venkatesh Matlab Sir policy for the information.",
+      "offset": "123900000",
+      "duration": "25600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Term policy comparison.",
+      "offset": "172900000",
+      "duration": "20000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

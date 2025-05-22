@@ -1,0 +1,31 @@
+{
+  "recordingId": "3813e2999602a53a1b05d76c7a5d195j",
+  "source": "temp/3813e2999602a53a1b05d76c7a5d195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello.",
+      "offset": "24300000",
+      "duration": "8400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yes, uh, Sir, this is a test call line. Speaking from Axis Hotel, this is a test call. Hello. Can you hear me? You can hear me? Yeah, I can hear you. I can hear you.",
+      "offset": "48300000",
+      "duration": "78800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay, thank you brother, will make a few more calls to verify. Cool cool cool. I'm just sure. Yeah, sorry for inconvenience.",
+      "offset": "143900000",
+      "duration": "59200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK.",
+      "offset": "218300000",
+      "duration": "800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

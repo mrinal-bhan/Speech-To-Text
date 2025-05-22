@@ -1,0 +1,25 @@
+{
+  "recordingId": "face6680d3d52e3b9ff9c0ac28c8195j",
+  "source": "temp/face6680d3d52e3b9ff9c0ac28c8195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Yes, yes.",
+      "offset": "19300000",
+      "duration": "21900000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uh, hello, This is a test call online. Speaking from AX Hotel. This is a test call. Yeah, you can hear. You can hear. Yeah, I can hear you. I can hear you.",
+      "offset": "46400000",
+      "duration": "76800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Oh, OK. Thank you, brother. We will make a few more calls to verify this. Cool, cool, cool. I am sorry for that. I am telling you. Yeah, cool.",
+      "offset": "134300000",
+      "duration": "67600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

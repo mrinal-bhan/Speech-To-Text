@@ -1,0 +1,19 @@
+{
+  "recordingId": "3686459a63c7273f48059a2a3c1a195e",
+  "source": "temp/3686459a63c7273f48059a2a3c1a195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello, I'm audible.",
+      "offset": "14900000",
+      "duration": "13600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "47100000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recordingId": "8e333ef9aedefce87602edf8794c195i",
+  "source": "temp/8e333ef9aedefce87602edf8794c195i.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "7500000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Yeah. Hi, am I connected with Shashidhar? Hi, who is this? Yeah, hello Shashidhar Joshita this side I am calling you from ICQ hub.",
+      "offset": "34900000",
+      "duration": "90400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

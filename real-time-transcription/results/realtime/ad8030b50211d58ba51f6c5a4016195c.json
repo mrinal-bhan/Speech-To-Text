@@ -1,0 +1,13 @@
+{
+  "recordingId": "ad8030b50211d58ba51f6c5a4016195c",
+  "source": "temp/ad8030b50211d58ba51f6c5a4016195c.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello. Yeah, one second now I'm in this one. OK, fine. Awesome.",
+      "offset": "17900000",
+      "duration": "53600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

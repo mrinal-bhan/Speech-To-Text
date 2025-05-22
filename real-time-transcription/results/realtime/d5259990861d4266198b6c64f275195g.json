@@ -1,0 +1,61 @@
+{
+  "recordingId": "d5259990861d4266198b6c64f275195g",
+  "source": "temp/d5259990861d4266198b6c64f275195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "11700000",
+      "duration": "1200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో.",
+      "offset": "33200000",
+      "duration": "3200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "హలో.",
+      "offset": "59900000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "",
+      "offset": "73600000",
+      "duration": "201600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ओके, क्या कहते है? हाँ, एक डेटा चाहिए बजाज के लिए?",
+      "offset": "295000000",
+      "duration": "27200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "तुने किया है उसी के लिए ऑफर वापस कॉल किया था हमने एक एक बार वि आई ऐफ़ आई पी लेवल पे याद है।",
+      "offset": "338400000",
+      "duration": "66000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "तो ऑफिस में है क्या?",
+      "offset": "422900000",
+      "duration": "9600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "नहीं, मैं आने वाला हूँ थोड़े टाइम में।",
+      "offset": "442000000",
+      "duration": "22400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "सभी बात करते है ना चलो ठीक है, ठीक है।",
+      "offset": "482000000",
+      "duration": "46000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

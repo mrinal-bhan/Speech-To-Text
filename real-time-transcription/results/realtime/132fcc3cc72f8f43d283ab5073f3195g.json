@@ -1,0 +1,73 @@
+{
+  "recordingId": "132fcc3cc72f8f43d283ab5073f3195g",
+  "source": "temp/132fcc3cc72f8f43d283ab5073f3195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "19400000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Good afternoon, Sir.",
+      "offset": "44900000",
+      "duration": "8400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yes, tell me good afternoon. Am I speaking to Mr Bhargava?",
+      "offset": "64300000",
+      "duration": "40000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Tell me regarding.",
+      "offset": "118300000",
+      "duration": "6800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sir, my name is Ayushwata, Sir. I'm calling on behalf of SBI Card Sir.",
+      "offset": "139900000",
+      "duration": "33600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, Sir, you have Sir. You have recently received a used card for transaction amount of 7800, Sir.",
+      "offset": "183100000",
+      "duration": "76400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK Sir. Sir, you have a special offer Sir or you have to convert last 30 days transaction amount into EMI? Sir, we are offering reducing rate of interest Sir per month 0.882163 g.",
+      "offset": "269500000",
+      "duration": "130400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "No, no, not so back.",
+      "offset": "412700000",
+      "duration": "15600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sir, may I know the reason why you are not interested?",
+      "offset": "445200000",
+      "duration": "20000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "No, I don't want to play the interest.",
+      "offset": "476700000",
+      "duration": "17200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Thank you. OK, Sir, Thank you.",
+      "offset": "511900000",
+      "duration": "13200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

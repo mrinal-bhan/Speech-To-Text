@@ -1,0 +1,43 @@
+{
+  "recordingId": "91bb186a4aa23555bb232c1e7222195f",
+  "source": "temp/91bb186a4aa23555bb232c1e7222195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "15100000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello Haan Ji. Namaste.",
+      "offset": "31100000",
+      "duration": "17200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Ji mahsus bol raha Hoon Sir AB Tak nahi Pata AAP bol rahe ho Kal subah bataaenge Ji.",
+      "offset": "64300000",
+      "duration": "48800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uh, nahi nahi hum.",
+      "offset": "127500000",
+      "duration": "11200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sold ho Gaya.",
+      "offset": "162000000",
+      "duration": "5600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Theek hai. OK, Thank you.",
+      "offset": "175900000",
+      "duration": "21200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "recordingId": "c893a1ccd72c6b7578f763ef06f6195e",
+  "source": "temp/c893a1ccd72c6b7578f763ef06f6195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello.",
+      "offset": "9300000",
+      "duration": "27600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uh, no. The liplo patency 3 naukara.",
+      "offset": "55100000",
+      "duration": "34400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "125300000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "160400000",
+      "duration": "4800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay.",
+      "offset": "184700000",
+      "duration": "6400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "3rd floor.",
+      "offset": "337500000",
+      "duration": "8000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay, naa.",
+      "offset": "358700000",
+      "duration": "19200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Cover Lega.",
+      "offset": "390300000",
+      "duration": "8000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "416100000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, normally petronding and choose.",
+      "offset": "459500000",
+      "duration": "16400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Alright.",
+      "offset": "494400000",
+      "duration": "6000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yes, one minute.",
+      "offset": "511500000",
+      "duration": "6400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay, okay, one minute.",
+      "offset": "572000000",
+      "duration": "9200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Srivendulan or NAR.",
+      "offset": "641800000",
+      "duration": "10800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Anna.",
+      "offset": "848900000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Liplo Patna Turner hai Sri venkaiah naa raha hai.",
+      "offset": "863100000",
+      "duration": "34000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sir.",
+      "offset": "998200000",
+      "duration": "15200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Achchha. OK, OK.",
+      "offset": "1030300000",
+      "duration": "14400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK, OK.",
+      "offset": "1092700000",
+      "duration": "11200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "",
+      "offset": "1241600000",
+      "duration": "103200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "1362600000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

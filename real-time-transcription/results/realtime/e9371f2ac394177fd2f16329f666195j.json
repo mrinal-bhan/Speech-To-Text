@@ -1,0 +1,31 @@
+{
+  "recordingId": "e9371f2ac394177fd2f16329f666195j",
+  "source": "temp/e9371f2ac394177fd2f16329f666195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello. Hello. Yeah, I can hear you now.",
+      "offset": "16800000",
+      "duration": "28400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "You can hear me now. Previously you were not able to hear, right? No, no. Previously it was just blank. No sound.",
+      "offset": "58700000",
+      "duration": "55600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK, OK, got it.",
+      "offset": "133100000",
+      "duration": "16800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah.",
+      "offset": "158700000",
+      "duration": "2800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

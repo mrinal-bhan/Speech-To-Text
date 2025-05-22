@@ -1,0 +1,13 @@
+{
+  "recordingId": "c018a9d317e5bf45c1c1f15b7430195e",
+  "source": "temp/c018a9d317e5bf45c1c1f15b7430195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "",
+      "offset": "0",
+      "duration": "31600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

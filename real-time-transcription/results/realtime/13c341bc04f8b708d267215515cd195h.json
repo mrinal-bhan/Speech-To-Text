@@ -1,0 +1,43 @@
+{
+  "recordingId": "13c341bc04f8b708d267215515cd195h",
+  "source": "temp/13c341bc04f8b708d267215515cd195h.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "9000000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఏజెన్సీ హలో.",
+      "offset": "42700000",
+      "duration": "42400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "హలో సర్.",
+      "offset": "160400000",
+      "duration": "10800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "జీవీ ఆర్డ‌ర్‌.",
+      "offset": "181600000",
+      "duration": "8800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "మిత్ర.",
+      "offset": "223600000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "సెకండ్ ఫ్లోర్ సెకండ్ ఫ్లోర్.",
+      "offset": "309200000",
+      "duration": "30400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

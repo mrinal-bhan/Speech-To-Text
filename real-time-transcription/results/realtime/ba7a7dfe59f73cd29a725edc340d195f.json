@@ -1,0 +1,127 @@
+{
+  "recordingId": "ba7a7dfe59f73cd29a725edc340d195f",
+  "source": "temp/ba7a7dfe59f73cd29a725edc340d195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "10700000",
+      "duration": "2400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello.",
+      "offset": "37900000",
+      "duration": "7600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "G Hello Haan Ji, ma'am.",
+      "offset": "60700000",
+      "duration": "46400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "3 BHK purchase management.",
+      "offset": "107200000",
+      "duration": "11600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Ji.",
+      "offset": "131900000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Mm hmm.",
+      "offset": "158800000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK so after Kara location kahaan pe dekh rahe hai aapne.",
+      "offset": "178500000",
+      "duration": "73600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Actually I'm Gandhinagar Mein karte Hain dekhna ho toh mil jaayega ma'am.",
+      "offset": "298000000",
+      "duration": "46800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, kahaan karo aapka.",
+      "offset": "357900000",
+      "duration": "11600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "AAP mujhe options WhatsApp kar denge Ek bar kahaan kahaan pe hai kitne ka hai aapko matlab around budget kitna hai toh us hisab se Mein option aapko details.",
+      "offset": "417200000",
+      "duration": "89200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Ek se nahi kitna.",
+      "offset": "517900000",
+      "duration": "6800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Ek second.",
+      "offset": "541900000",
+      "duration": "4800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "One Ek se niche.",
+      "offset": "566400000",
+      "duration": "6000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK theek hai toh Mein one TR se niche one CR cancel ke Jo bhee hai achchhe project Jo wo Mein aapko share karta Hoon Mein.",
+      "offset": "585900000",
+      "duration": "66800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay aur aur aapko matlab around kitne 250 plus carrier ke chalegi naa.",
+      "offset": "667100000",
+      "duration": "57600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Haan haan wo AAP bhej dijiye aapko ready vaale bheju ya under construction vaale.",
+      "offset": "737100000",
+      "duration": "48800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Nahi nahi, right?",
+      "offset": "796300000",
+      "duration": "8800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Redevelop OK theek hai kya naam rahega aapka Mein.",
+      "offset": "813100000",
+      "duration": "24000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Apoorva.",
+      "offset": "845900000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay, theek hai. Thank you.",
+      "offset": "861500000",
+      "duration": "22800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

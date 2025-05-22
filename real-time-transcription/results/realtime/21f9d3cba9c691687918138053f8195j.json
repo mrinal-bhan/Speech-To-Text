@@ -1,0 +1,31 @@
+{
+  "recordingId": "21f9d3cba9c691687918138053f8195j",
+  "source": "temp/21f9d3cba9c691687918138053f8195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "7900000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello.",
+      "offset": "28900000",
+      "duration": "10800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "55900000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "My mother and son. OK, OK, 5 minutes or no Monday. Could you pass again, ma'am? Yeah, yeah, 5 minutes. Okay, okay.",
+      "offset": "71500000",
+      "duration": "80400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

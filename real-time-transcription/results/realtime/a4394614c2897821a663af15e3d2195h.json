@@ -1,0 +1,37 @@
+{
+  "recordingId": "a4394614c2897821a663af15e3d2195h",
+  "source": "temp/a4394614c2897821a663af15e3d2195h.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "11100000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Number please call me some more requirement in this.",
+      "offset": "35900000",
+      "duration": "25200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Taken in Chennai.",
+      "offset": "73500000",
+      "duration": "6800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I've been very soon.",
+      "offset": "89100000",
+      "duration": "8400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Urban rise.",
+      "offset": "109900000",
+      "duration": "17200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

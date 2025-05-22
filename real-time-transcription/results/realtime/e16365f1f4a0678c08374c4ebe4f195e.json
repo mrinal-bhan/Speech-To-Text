@@ -1,0 +1,19 @@
+{
+  "recordingId": "e16365f1f4a0678c08374c4ebe4f195e",
+  "source": "temp/e16365f1f4a0678c08374c4ebe4f195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello, hello, hello.",
+      "offset": "19500000",
+      "duration": "14000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, right. You, you called me. OK, OK, cool. One second. Yeah.",
+      "offset": "44700000",
+      "duration": "55600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

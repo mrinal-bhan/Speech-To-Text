@@ -1,0 +1,25 @@
+{
+  "recordingId": "8e2f964925b4abf8805ba9def3e9195g",
+  "source": "temp/8e2f964925b4abf8805ba9def3e9195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "नमस्कार नमस्कार, हेच डी ऐफ़ सी बैंक।",
+      "offset": "31800000",
+      "duration": "41200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "जी क्रेडिट कार्ड ऑफर है सर लास्ट टाइम क्रेडिट कार्ड।",
+      "offset": "78000000",
+      "duration": "34000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "प्रोसेसर लाइफटाइम फ्री ऐफ़ सीई एलई चार्ज इंट्रेस्टेड होता है कॉल येस।",
+      "offset": "141200000",
+      "duration": "50800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

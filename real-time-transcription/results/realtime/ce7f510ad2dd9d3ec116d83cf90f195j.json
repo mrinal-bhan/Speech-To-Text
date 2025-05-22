@@ -1,0 +1,67 @@
+{
+  "recordingId": "ce7f510ad2dd9d3ec116d83cf90f195j",
+  "source": "temp/ce7f510ad2dd9d3ec116d83cf90f195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "18500000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello. Am I audible? Can you turn off the mic from your end? Yeah, listen.",
+      "offset": "59500000",
+      "duration": "48000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, yeah. Hello. Am I audible, Ramkiran? Yeah, yeah, you are audible.",
+      "offset": "115100000",
+      "duration": "36800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "And have one to see if the call is routed via.",
+      "offset": "163100000",
+      "duration": "34400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello. One second.",
+      "offset": "224300000",
+      "duration": "18400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, it is routed via this landline number itself. I am able to hear you properly. Yes, yes, yes, yes, exactly. So can you try from Madhavanagar because Airtel testing is there right like I to see if that some Jio number if you are trying to call something, is there anything like that happening?",
+      "offset": "259500000",
+      "duration": "142400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "MMM, we don't have any VA number in gmail.com.",
+      "offset": "419500000",
+      "duration": "28000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay, you have currently only this number, so any other number that we have because I think this is working fine, we will see a couple of numbers like 23 numbers and just try to figure out something like this is happening.",
+      "offset": "456700000",
+      "duration": "104000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah.",
+      "offset": "584000000",
+      "duration": "1600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay.",
+      "offset": "606500000",
+      "duration": "1600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

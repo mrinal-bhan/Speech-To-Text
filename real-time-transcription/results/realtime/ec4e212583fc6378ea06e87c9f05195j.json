@@ -1,0 +1,19 @@
+{
+  "recordingId": "ec4e212583fc6378ea06e87c9f05195j",
+  "source": "temp/ec4e212583fc6378ea06e87c9f05195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "हैलो।",
+      "offset": "16600000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "हैलो हैलो 1 मिनट सोचना हूँ।",
+      "offset": "96400000",
+      "duration": "26000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

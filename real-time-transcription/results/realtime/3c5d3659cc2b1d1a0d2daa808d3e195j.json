@@ -1,0 +1,61 @@
+{
+  "recordingId": "3c5d3659cc2b1d1a0d2daa808d3e195j",
+  "source": "temp/3c5d3659cc2b1d1a0d2daa808d3e195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో హలో.",
+      "offset": "70900000",
+      "duration": "8400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "యా.",
+      "offset": "106600000",
+      "duration": "1600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "యెస్.",
+      "offset": "174700000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఓకే.",
+      "offset": "190900000",
+      "duration": "2800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "సారీ.",
+      "offset": "213700000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "అమ్మో అర్ధం యా యా నౌ యూ ఆడియో.",
+      "offset": "259300000",
+      "duration": "22400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "హలో.",
+      "offset": "376800000",
+      "duration": "2400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "యా యా.",
+      "offset": "391300000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఓకే.",
+      "offset": "416900000",
+      "duration": "2400000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

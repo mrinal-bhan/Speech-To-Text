@@ -1,0 +1,13 @@
+{
+  "recordingId": "4b132f2a9674b79bbc5943842d82195e",
+  "source": "temp/4b132f2a9674b79bbc5943842d82195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Namaskar welcome to ACT Fibernet, India's largest fiber broadband with incredibly.",
+      "offset": "17500000",
+      "duration": "63200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

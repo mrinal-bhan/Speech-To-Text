@@ -1,0 +1,13 @@
+{
+  "recordingId": "e633f85fd3c6db75646eba13dd6f195g",
+  "source": "temp/e633f85fd3c6db75646eba13dd6f195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "They're amazing customer get yes bank and credit card.",
+      "offset": "11900000",
+      "duration": "25600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

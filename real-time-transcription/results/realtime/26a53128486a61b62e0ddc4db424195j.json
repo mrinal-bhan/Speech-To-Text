@@ -1,0 +1,31 @@
+{
+  "recordingId": "26a53128486a61b62e0ddc4db424195j",
+  "source": "temp/26a53128486a61b62e0ddc4db424195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "हैलो।",
+      "offset": "19900000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "क्या है आयुष? हैलो रवि थिस इस कृष्णा फ्रम?",
+      "offset": "78300000",
+      "duration": "30400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "या आई ऍम एबल टु हियर यू?",
+      "offset": "121900000",
+      "duration": "10400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "येस कृष्णा ओके ओके, थैंक यू सो मच या या वी विल प्ले सम टॅच कॉल्स ओके थैंक यू?",
+      "offset": "140700000",
+      "duration": "42000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

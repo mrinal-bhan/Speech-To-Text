@@ -1,0 +1,13 @@
+{
+  "recordingId": "ac16d5ad027becc97662079834a1195e",
+  "source": "temp/ac16d5ad027becc97662079834a1195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "ఓకే.",
+      "offset": "63100000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

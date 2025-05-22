@@ -1,0 +1,49 @@
+{
+  "recordingId": "fe08341d5fd103ab6567b99dc2ae195g",
+  "source": "temp/fe08341d5fd103ab6567b99dc2ae195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "17900000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sir physics se baat kar rahe location pay.",
+      "offset": "41100000",
+      "duration": "17200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Haan haan kahaan pay raho.",
+      "offset": "73500000",
+      "duration": "11200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Business ka naam nahi hai.",
+      "offset": "113900000",
+      "duration": "18000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "SOT Hyderabad AB bhara rahi hai Mein Kaiser ka raha Hoon.",
+      "offset": "159100000",
+      "duration": "26800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay.",
+      "offset": "200300000",
+      "duration": "4800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Haan haan theek hai.",
+      "offset": "227900000",
+      "duration": "7200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

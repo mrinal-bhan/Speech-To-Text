@@ -1,0 +1,31 @@
+{
+  "recordingId": "81f37c9f74e1eb13b6e00e00112b195j",
+  "source": "temp/81f37c9f74e1eb13b6e00e00112b195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "62600000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "91600000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "125000000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "149000000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

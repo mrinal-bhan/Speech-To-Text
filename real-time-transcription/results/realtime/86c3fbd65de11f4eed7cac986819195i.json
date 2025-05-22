@@ -1,0 +1,13 @@
+{
+  "recordingId": "86c3fbd65de11f4eed7cac986819195i",
+  "source": "temp/86c3fbd65de11f4eed7cac986819195i.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "नमस्कार हेच डी ऐफ़ सी क्रेडिट कार्ड में आपका स्वागत है। हेच डी ऐफ़ सी आपको लाइफ टाइम से क्रेडिट कार्ड ऑफर कर रहा है। अभी अप्लाई करने के लिए एक दवाएं।",
+      "offset": "7100000",
+      "duration": "96400000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

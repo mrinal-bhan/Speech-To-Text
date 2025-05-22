@@ -1,0 +1,25 @@
+{
+  "recordingId": "97934429c0092cede0f17fa7de97195j",
+  "source": "temp/97934429c0092cede0f17fa7de97195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello. Yes, Sir.",
+      "offset": "23900000",
+      "duration": "20000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sculptor healthcare in smart Ratan Sir triple I think gynecologist appointment kaunsa.",
+      "offset": "54700000",
+      "duration": "63600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello umm Ketan Ketan item you go time of 430 to 6 time low approach you know OK ma'am available counter OK a time course Sir 430 Karati 1000 Okay okay.",
+      "offset": "154000000",
+      "duration": "157600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recordingId": "bdc60d49b525450167947954a4de195i",
+  "source": "temp/bdc60d49b525450167947954a4de195i.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "हैलो।",
+      "offset": "20900000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ना मैं ऑटो नंबर।",
+      "offset": "80700000",
+      "duration": "52800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

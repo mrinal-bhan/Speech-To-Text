@@ -1,0 +1,25 @@
+{
+  "recordingId": "90b5c5e5ba4f49cdcda729133a5f195j",
+  "source": "temp/90b5c5e5ba4f49cdcda729133a5f195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello Airtel number. Now another thing I don't know.",
+      "offset": "2700000",
+      "duration": "37200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello. This is Krishna from Xbox. Am I audible to you? Yes, yes, Krishna, you are audible.",
+      "offset": "51100000",
+      "duration": "44000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK.",
+      "offset": "107100000",
+      "duration": "800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

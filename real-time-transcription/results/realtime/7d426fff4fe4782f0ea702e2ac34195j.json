@@ -1,0 +1,25 @@
+{
+  "recordingId": "7d426fff4fe4782f0ea702e2ac34195j",
+  "source": "temp/7d426fff4fe4782f0ea702e2ac34195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో హలో యామ్ ఐ ఆడిబుల్.",
+      "offset": "22100000",
+      "duration": "36400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఆడిబుల్.",
+      "offset": "76900000",
+      "duration": "5200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఓకే.",
+      "offset": "96300000",
+      "duration": "8800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

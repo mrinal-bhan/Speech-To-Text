@@ -1,0 +1,25 @@
+{
+  "recordingId": "26b9dcf1cb34c70e936bf3d54b80195e",
+  "source": "temp/26b9dcf1cb34c70e936bf3d54b80195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "19900000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hey, how are you doing? What's up? Check, Check, check.",
+      "offset": "35500000",
+      "duration": "24400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "We are testing the call. We are testing the call credit.",
+      "offset": "76900000",
+      "duration": "25200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

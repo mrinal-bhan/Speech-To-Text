@@ -1,0 +1,67 @@
+{
+  "recordingId": "722313d2b0d80739b06f61a2a402195e",
+  "source": "temp/722313d2b0d80739b06f61a2a402195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "37000000",
+      "duration": "1200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో ఎక్కడున్నావ్?",
+      "offset": "97200000",
+      "duration": "10800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "అమీర్‌పేట లో ఉన్నాను. అమీర్‌పేట లో ఉన్నావా?",
+      "offset": "119900000",
+      "duration": "30800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "సుధా మేడం నువ్వు మెల్లగరం ఆఫీస్‌ లో ఉన్నాం. ఇంకా పెర్ఫెక్ట్.",
+      "offset": "173100000",
+      "duration": "36400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఇప్పుడే.",
+      "offset": "226800000",
+      "duration": "2800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఆఫీస్‌ లోనే ఉన్నాం.",
+      "offset": "243900000",
+      "duration": "8400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "అవునా బ్యాడ్మింటన్ ఏ నండి.",
+      "offset": "264300000",
+      "duration": "10800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఆనంద్ గుండం అందరూ ఆ.",
+      "offset": "289500000",
+      "duration": "38800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "పనుందిరా.",
+      "offset": "339500000",
+      "duration": "6800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో.",
+      "offset": "358300000",
+      "duration": "6800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

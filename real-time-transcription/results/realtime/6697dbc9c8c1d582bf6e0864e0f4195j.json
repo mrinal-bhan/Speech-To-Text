@@ -1,0 +1,73 @@
+{
+  "recordingId": "6697dbc9c8c1d582bf6e0864e0f4195j",
+  "source": "temp/6697dbc9c8c1d582bf6e0864e0f4195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "7600000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hi ma'am, Sheetal Bhaskar your magic biscuit flat search kar rahe the ma'am. I just got a call from magic brick meri baat ho gayi.",
+      "offset": "27900000",
+      "duration": "69200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Uh actually ma'am wo travel partner ho sakte hai but now to 5 digit team se call karti hai.",
+      "offset": "117100000",
+      "duration": "42400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Kisse call kariye AAP.",
+      "offset": "170700000",
+      "duration": "12000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Mein aapko site will be changed to call kar rahi Hoon hamaara Jo site visiting vaala he call tha.",
+      "offset": "195900000",
+      "duration": "55600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Kinse baat Hui aapki bol raha hai.",
+      "offset": "269800000",
+      "duration": "16400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Naam toh yaad nahi hai ma'am.",
+      "offset": "296300000",
+      "duration": "10400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Kyonki yahaan pe show kar raha hai leads generation team Mein aapko call kiye the aur baat karenge.",
+      "offset": "320700000",
+      "duration": "56800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Through legislation se baat kar rahe hai.",
+      "offset": "405700000",
+      "duration": "17200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hmm.",
+      "offset": "440300000",
+      "duration": "1200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Thank you so much, ma'am. Wait. OK, Thank you.",
+      "offset": "470400000",
+      "duration": "28000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

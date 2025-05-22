@@ -1,0 +1,13 @@
+{
+  "recordingId": "8ea386957e2c942cd89f7c00e8ca195c",
+  "source": "temp/8ea386957e2c942cd89f7c00e8ca195c.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "हाँ, मैं वो तो केयर या आई ऍम एबल टु केयर।",
+      "offset": "21500000",
+      "duration": "29600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

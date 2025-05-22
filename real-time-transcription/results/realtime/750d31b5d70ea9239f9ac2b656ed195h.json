@@ -1,0 +1,25 @@
+{
+  "recordingId": "750d31b5d70ea9239f9ac2b656ed195h",
+  "source": "temp/750d31b5d70ea9239f9ac2b656ed195h.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "17300000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో.",
+      "offset": "38700000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "ఒక్క నిమిషం.",
+      "offset": "69100000",
+      "duration": "4800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

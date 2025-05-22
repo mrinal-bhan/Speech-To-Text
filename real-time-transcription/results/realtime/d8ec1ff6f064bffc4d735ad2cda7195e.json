@@ -1,0 +1,25 @@
+{
+  "recordingId": "d8ec1ff6f064bffc4d735ad2cda7195e",
+  "source": "temp/d8ec1ff6f064bffc4d735ad2cda7195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "8700000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello, am I audible?",
+      "offset": "28400000",
+      "duration": "7600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK, OK, awesome. Yeah, this is the.",
+      "offset": "58100000",
+      "duration": "20400000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

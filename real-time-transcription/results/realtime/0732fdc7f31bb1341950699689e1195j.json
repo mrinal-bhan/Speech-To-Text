@@ -1,0 +1,31 @@
+{
+  "recordingId": "0732fdc7f31bb1341950699689e1195j",
+  "source": "temp/0732fdc7f31bb1341950699689e1195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "28600000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah.",
+      "offset": "71100000",
+      "duration": "1600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Rakesh Mein bhee suna karte Hain naa leke naa personal requirement message.",
+      "offset": "85900000",
+      "duration": "46000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "11 you.",
+      "offset": "148300000",
+      "duration": "11600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

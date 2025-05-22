@@ -1,0 +1,97 @@
+{
+  "recordingId": "c2121d1bfc738d5cda1357e25d2d195d",
+  "source": "temp/c2121d1bfc738d5cda1357e25d2d195d.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "9300000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello. Who is this?",
+      "offset": "23500000",
+      "duration": "19600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "I'm calling from State Bank of India calling from.",
+      "offset": "57100000",
+      "duration": "30800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "State Bank of India I am dots OK.",
+      "offset": "97100000",
+      "duration": "24400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "You have joined our group regarding education loan.",
+      "offset": "138300000",
+      "duration": "23600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Mm hmm, yeah, I have done this.",
+      "offset": "170300000",
+      "duration": "14400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "So have you decided yet?",
+      "offset": "199100000",
+      "duration": "21600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Not yet. I'm not sure if I'll join Eminem or not, so I'll put it on hold right now.",
+      "offset": "233100000",
+      "duration": "43600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK, OK. Although are you talking from SBI or CTA?",
+      "offset": "287100000",
+      "duration": "39200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "What are you talking from? SBI. SBI. OK, OK, cool, cool, cool.",
+      "offset": "339100000",
+      "duration": "54800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "So you will decide again.",
+      "offset": "413100000",
+      "duration": "14400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uh, I will decide when I will decide if I'm joining Ahmedabad or not. I'm not sure if I join Ahmedabad. OK, OK, OK Sir, OK. What is your name?",
+      "offset": "441900000",
+      "duration": "94000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "My name is Yatna. What?",
+      "offset": "546300000",
+      "duration": "23600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Etna YATNAYTN. OK, OK.",
+      "offset": "575200000",
+      "duration": "45600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Thank you.",
+      "offset": "637000000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "recordingId": "c5bc3a93b5cda99ba55fad061544195j",
+  "source": "temp/c5bc3a93b5cda99ba55fad061544195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "20000000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello.",
+      "offset": "49700000",
+      "duration": "15600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Is my can you turn off the hello. Hi Krishna.",
+      "offset": "85200000",
+      "duration": "28000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, yeah. Hi, Rajitha. If my voice is audible, yeah, you, your voice is audible, Sir.",
+      "offset": "131000000",
+      "duration": "46800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "The previous call has been landed to your floor. Yeah, it did land on my thing. I spoke with you. I was able to hear you, but you didn't.",
+      "offset": "197500000",
+      "duration": "80800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, OK, got it.",
+      "offset": "309600000",
+      "duration": "15200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "recordingId": "ad0894038982c9653ceb91de52c0195i",
+  "source": "temp/ad0894038982c9653ceb91de52c0195i.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello how may I help you?",
+      "offset": "31500000",
+      "duration": "21600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Kahaan per hello.",
+      "offset": "74300000",
+      "duration": "7600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "School ke paas raha Hoon NSA school.",
+      "offset": "100700000",
+      "duration": "23200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Achchha uske bagal nahi hai thodi Hyderabad karke Ek building Mein.",
+      "offset": "137900000",
+      "duration": "39200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Black colour Scorpio Park there is the opposite building.",
+      "offset": "207500000",
+      "duration": "54400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Black Lega Scorpio can.",
+      "offset": "316600000",
+      "duration": "19600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "AAP school ke paas ho kya.",
+      "offset": "358700000",
+      "duration": "12400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uh huh.",
+      "offset": "389500000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Malacca kaisa ko disha.",
+      "offset": "433800000",
+      "duration": "15200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Haan Bola kalakar karke ye ye.",
+      "offset": "492700000",
+      "duration": "18400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK.",
+      "offset": "550800000",
+      "duration": "1600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Up.",
+      "offset": "589500000",
+      "duration": "800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

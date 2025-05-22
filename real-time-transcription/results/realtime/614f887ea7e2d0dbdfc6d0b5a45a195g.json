@@ -1,0 +1,151 @@
+{
+  "recordingId": "614f887ea7e2d0dbdfc6d0b5a45a195g",
+  "source": "temp/614f887ea7e2d0dbdfc6d0b5a45a195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "9400000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "29500000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "46700000",
+      "duration": "1200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Yes, yes, I am Ashwitham from Central Bank of India, OK.",
+      "offset": "59100000",
+      "duration": "53200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yes. You know we had discussed regarding education loan for Ahmedabad, yes.",
+      "offset": "130800000",
+      "duration": "54800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, so the new feature he came with Sir is like we have removed the mandatory insurance policy.",
+      "offset": "199100000",
+      "duration": "57600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, you have removed the.",
+      "offset": "270300000",
+      "duration": "9200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yes. Now did you remove? I didn't understand.",
+      "offset": "294300000",
+      "duration": "29200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Insurance policies, OK.",
+      "offset": "342100000",
+      "duration": "21600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello Sir, no need to buy insurance and we have like we also.",
+      "offset": "383200000",
+      "duration": "56000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Provide CSA ts.",
+      "offset": "458000000",
+      "duration": "15600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "And there will be no care for foreign.",
+      "offset": "496600000",
+      "duration": "15600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Foreign exchange program, mobile, tablet and the laptop will be.",
+      "offset": "523100000",
+      "duration": "45200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Inclusive and ₹20,000 per month.",
+      "offset": "577100000",
+      "duration": "26800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Expense is covered.",
+      "offset": "629100000",
+      "duration": "16800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "So will you be applying it with it?",
+      "offset": "685600000",
+      "duration": "34400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "With 10 to branch of India no.",
+      "offset": "720800000",
+      "duration": "24400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I am not sure. I am not specifically come to Ahmedabad right now. I'm still waiting for Calcutta to.",
+      "offset": "746000000",
+      "duration": "45200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Shortlist Mein, Sir. Until that happens, I am Kolkata, yeah.",
+      "offset": "800300000",
+      "duration": "42800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, fine, no problem. Sure. I am not sure yet because I am in the wait list currently. You have not decided. Yeah, your father talked to me. He said he will start the process. So which I am Ahmedabad and once if you will decide to go with I am Calcutta, they will switch over.",
+      "offset": "858700000",
+      "duration": "199600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sure, no problem then. Uh yeah. Can you call me in the week weekend because I will be at home and you can talk my father's business because if you want sanction the loan or not.",
+      "offset": "1066700000",
+      "duration": "91200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, no problem. You can talk. I mean I'll be able to talk to him once you are.",
+      "offset": "1171500000",
+      "duration": "46800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sure, sure, sure.",
+      "offset": "1229100000",
+      "duration": "7200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Thank you. Thank you.",
+      "offset": "1250300000",
+      "duration": "18400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

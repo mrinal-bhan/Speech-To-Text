@@ -1,0 +1,13 @@
+{
+  "recordingId": "4c08bdbbd331f1efce7636a83c97195c",
+  "source": "temp/4c08bdbbd331f1efce7636a83c97195c.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "हाँ, हाँ, या या या या।",
+      "offset": "38800000",
+      "duration": "10800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

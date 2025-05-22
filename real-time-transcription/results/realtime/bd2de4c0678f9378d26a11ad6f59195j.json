@@ -1,0 +1,79 @@
+{
+  "recordingId": "bd2de4c0678f9378d26a11ad6f59195j",
+  "source": "temp/bd2de4c0678f9378d26a11ad6f59195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello. Hello. Yes, uh, yeah. Hi Chris. Uh, Krishna from executive you have called me. Yes, yes, Krishna. Krishna, uh, we are looking for a Rajasthan member because one of the user is facing that operator issue that we faced, right. They are from Rajasthan.",
+      "offset": "22400000",
+      "duration": "162400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "We don't have any Rajasthan number. Rajasthan which which operator you want?",
+      "offset": "194300000",
+      "duration": "49600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "The Airtel.",
+      "offset": "252700000",
+      "duration": "6400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, I will give you the numbers. Just allow me half and 2 hours now. Yeah. Yeah. Please, please share it. Huh. Just a second. Hello. Yeah, please tell me address. Just a second. Ravi will speak with you. Uh huh.",
+      "offset": "274100000",
+      "duration": "125600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hey Krishna, as of now from the DND we are not we are not taking users email address.",
+      "offset": "433600000",
+      "duration": "48800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uh, we have phone number and content is that, is that fine?",
+      "offset": "499500000",
+      "duration": "37600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "No, Ravi, I don't think so. That will be enough for them.",
+      "offset": "558900000",
+      "duration": "24400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Can you once confirm? Because in the floor we are not taking email Krishna, we don't have email ID we will have. However the content is captured the user with OTT because all the users are OTP verified, their status is active in our database and they go through the sign up process right? Which has all the necessary things.",
+      "offset": "598200000",
+      "duration": "209600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK do one thing just send me sample whatever data you have of what the user. I will check with the compare team if it is OK like they are willing to agree on that and if it is they are able to enable D&E its OK fine. If not if I will ask you the certain information you can just let me know if that is okay, what works done then?",
+      "offset": "825900000",
+      "duration": "186400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Done. Whatever the data you have, just send me sample of 2 or 3, uh details like customer details like whatever concern you have.",
+      "offset": "1022700000",
+      "duration": "64800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "I'll check with the team. Definitely, they are OK with it. Then it's OK. We can enable the deal. Perfect, perfect. Thank you. Thanks, Krishna. And let me know on the Airtel Rajasthan. Yeah, yeah. Just give Me 2 hours. I will give you the number.",
+      "offset": "1097100000",
+      "duration": "122000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, perfect. Thank you.",
+      "offset": "1229500000",
+      "duration": "12400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "recordingId": "a379e74ea5b20c86440c74590442195f",
+  "source": "temp/a379e74ea5b20c86440c74590442195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "12500000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, picking someone.",
+      "offset": "31900000",
+      "duration": "10000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Abhiya kahaa hai yaar.",
+      "offset": "51900000",
+      "duration": "8800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Haan location ke baad phone thoda billinga ne Mein bhee khara Ek bar.",
+      "offset": "75800000",
+      "duration": "27200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sorry, Sir, travel.",
+      "offset": "115900000",
+      "duration": "6400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Building the name Ji kharab Ek bar AAP baahar dekho toh Mein upper AA jaata Hoon Mein bhee yaar dekh raha Hoon chhat se AAP mere ko ye road pe he nahi dikh raha hai AAP actually AAP shayad pe he aur hai ye building ka teen Ek second.",
+      "offset": "142100000",
+      "duration": "127200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Building the name search one is se mil jaayega aapko.",
+      "offset": "278300000",
+      "duration": "27200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Supandam karke supandam apartment karke mil jaayega bhaiya.",
+      "offset": "322800000",
+      "duration": "24000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Sup Auram apartment.",
+      "offset": "364700000",
+      "duration": "26000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Ye global erudicate school hai naa uske samne he hai bhee hai.",
+      "offset": "403100000",
+      "duration": "26800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Industry where?",
+      "offset": "442700000",
+      "duration": "7600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Global educate school karke hai.",
+      "offset": "461500000",
+      "duration": "18000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Okay mera school hai uski samne he hai building jaise Mein sabse khade ho ke dekh raha Hoon AAP. Matlab niche dikh nahi rahe mere ko AAP.",
+      "offset": "496800000",
+      "duration": "54800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sangam aur Kashmir.",
+      "offset": "603900000",
+      "duration": "10400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Paanch pandrah apartment ya phir global erudite school karke search kar lijiye wo bhee mil jaayega.",
+      "offset": "627100000",
+      "duration": "44800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Abhi Zomato ka t shirt pahane kya aur red colour deta hai.",
+      "offset": "869500000",
+      "duration": "25200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hello.",
+      "offset": "912500000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Red colour ka t shirt pahan hai kya.",
+      "offset": "928700000",
+      "duration": "15200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Nahi nahi ye log ka jyaada jeans ka chhatte naa ho.",
+      "offset": "957100000",
+      "duration": "31200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Achchha nahi abhi toh phir AAP nahi hai koi aur bhee aaya tha delivery agent.",
+      "offset": "999100000",
+      "duration": "32800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Hi, Yeah.",
+      "offset": "1067900000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Nahi ke paas ho nahi dikh rahi hai AAP global erudite school Mein aaj ke upar he Hoon jaise kaam nahi khaaunga.",
+      "offset": "1113500000",
+      "duration": "46800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "The 3 house ban jaayega wo high town.",
+      "offset": "1175500000",
+      "duration": "25200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "3 house.",
+      "offset": "1211100000",
+      "duration": "5600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Haan yahi toh rahi hai AAP idhar se nahi ho matlab Mein idhar school ke saamne he karungi abhi wo bas accurate school ke saamne he karaaun Mein.",
+      "offset": "1244900000",
+      "duration": "75600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Naveena talent school bolte hai naa nahi nahi naveena tha yaar global advertise school.",
+      "offset": "1343200000",
+      "duration": "46000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Kya aapko kyonki aur aayega naa kya.",
+      "offset": "1408300000",
+      "duration": "19600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Nahi nahi Maine other location diya hai. AAP exact us location bhee aayi hai aapka hai Jo location hai aapka Jo location hai Delhi Mein bata.",
+      "offset": "1437100000",
+      "duration": "72400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "And.",
+      "offset": "1523100000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Arey kya baat kar rahe map K phone kahaan hai map ke kya hai kaam karo hello ye kaam Ek kaam karo WhatsApp pay location WhatsApp number bolta Hoon jis Delhi Mein hai naa sorry yes.",
+      "offset": "1566300000",
+      "duration": "124000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah.",
+      "offset": "1697500000",
+      "duration": "2400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Ye AAP AAP global Mein bhee AAP global Ayurvedic school search kariye mil jaayega.",
+      "offset": "1714300000",
+      "duration": "38400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Bhaai mera bhaai haan WhatsApp pay location bhaiya toh ho Gaya naa bhaai.",
+      "offset": "1769900000",
+      "duration": "33200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "WhatsApp pay bhejiye yaar message Bhejiye Mein bhej deta Hoon location.",
+      "offset": "1811900000",
+      "duration": "28000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Aapka my number bolta Hoon AAP mere ko bhej do bhaiya AAP kar raha Hoon hadsa number bolta Hoon Mein aapko.",
+      "offset": "1855500000",
+      "duration": "48800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Boliye number bolie.",
+      "offset": "1916300000",
+      "duration": "8400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "7780.",
+      "offset": "1939100000",
+      "duration": "10000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "7780.",
+      "offset": "1960300000",
+      "duration": "10000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "1244.",
+      "offset": "1985900000",
+      "duration": "9200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "1244.",
+      "offset": "2005100000",
+      "duration": "10800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "18.",
+      "offset": "2030300000",
+      "duration": "5200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Kya kya.",
+      "offset": "2047500000",
+      "duration": "4400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "1818.",
+      "offset": "2068600000",
+      "duration": "10800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "18.",
+      "offset": "2087100000",
+      "duration": "8000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "7780124418.",
+      "offset": "2109900000",
+      "duration": "22000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Haan bhaiya.",
+      "offset": "2146300000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Take care.",
+      "offset": "2177300000",
+      "duration": "6800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "To my current location is around.",
+      "offset": "2196700000",
+      "duration": "17200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Please be available WhatsApp ma'am.",
+      "offset": "2241800000",
+      "duration": "13200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Thank you.",
+      "offset": "2272800000",
+      "duration": "8400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Haan Gaya.",
+      "offset": "2297800000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recordingId": "ecdbbed68b772cb84001f63c77d2195h",
+  "source": "temp/ecdbbed68b772cb84001f63c77d2195h.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "12300000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "39100000",
+      "duration": "4000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

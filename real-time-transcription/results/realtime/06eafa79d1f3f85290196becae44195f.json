@@ -1,0 +1,19 @@
+{
+  "recordingId": "06eafa79d1f3f85290196becae44195f",
+  "source": "temp/06eafa79d1f3f85290196becae44195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "",
+      "offset": "70800000",
+      "duration": "201600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఆహా సరే.",
+      "offset": "306200000",
+      "duration": "8000000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

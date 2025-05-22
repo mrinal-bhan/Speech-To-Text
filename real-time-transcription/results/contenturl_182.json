@@ -1,0 +1,269 @@
+{
+  "source": "https://callspeakerrecordings.blob.core.windows.net/recording-transcriptions/c87f820c38ed154832e95bbfa759195g.mp3?sp=racwl&st=2025-05-21T14:21:47Z&se=2025-05-21T22:21:47Z&sv=2024-11-04&sr=c&sig=ydSse36%2Bha22%2B8AOuvDgnB3zZ0eZ4NfzPZlHWbzaQOg%3D",
+  "timestamp": "2025-05-21T14:56:12Z",
+  "duration": "PT10.01S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "hello hello is my voice is clear now yeah i am getting a voice okay thank you thank you",
+      "itn": "hello hello is my voice is clear now yeah i am getting a voice okay thank you thank you",
+      "maskedITN": "Hello. Hello is my voice is clear now. Yeah, I am getting a voice. Okay thank you Thank you",
+      "display": "Hello. Hello is my voice is clear now. Yeah, I am getting a voice. Okay, thank you. Thank you."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.52S",
+      "duration": "PT0.44S",
+      "nBest": [
+        {
+          "confidence": 0.97920996,
+          "lexical": "hello",
+          "itn": "hello",
+          "maskedITN": "Hello.",
+          "display": "Hello.",
+          "words": [
+            {
+              "word": "hello",
+              "offset": "PT1.52S",
+              "duration": "PT0.44S",
+              "confidence": 0.97920996,
+              "offsetInTicks": 15200000.0,
+              "durationInTicks": 4400000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 15200000.0,
+      "durationInTicks": 4400000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT3.24S",
+      "duration": "PT1.6S",
+      "nBest": [
+        {
+          "confidence": 0.93952334,
+          "lexical": "hello is my voice is clear now",
+          "itn": "hello is my voice is clear now",
+          "maskedITN": "Hello is my voice is clear now.",
+          "display": "Hello is my voice is clear now.",
+          "words": [
+            {
+              "word": "hello",
+              "offset": "PT3.24S",
+              "duration": "PT0.36S",
+              "confidence": 0.95288545,
+              "offsetInTicks": 32400000.0,
+              "durationInTicks": 3600000.0
+            },
+            {
+              "word": "is",
+              "offset": "PT3.72S",
+              "duration": "PT0.16S",
+              "confidence": 0.8653146,
+              "offsetInTicks": 37200000.0,
+              "durationInTicks": 1600000.0
+            },
+            {
+              "word": "my",
+              "offset": "PT3.92S",
+              "duration": "PT0.08S",
+              "confidence": 0.96472865,
+              "offsetInTicks": 39200000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "word": "voice",
+              "offset": "PT4S",
+              "duration": "PT0.28S",
+              "confidence": 0.96971357,
+              "offsetInTicks": 40000000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "word": "is",
+              "offset": "PT4.28S",
+              "duration": "PT0.12S",
+              "confidence": 0.97059524,
+              "offsetInTicks": 42800000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "word": "clear",
+              "offset": "PT4.4S",
+              "duration": "PT0.24S",
+              "confidence": 0.878164,
+              "offsetInTicks": 44000000.0,
+              "durationInTicks": 2400000.0
+            },
+            {
+              "word": "now",
+              "offset": "PT4.64S",
+              "duration": "PT0.2S",
+              "confidence": 0.97526205,
+              "offsetInTicks": 46400000.0,
+              "durationInTicks": 2000000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 32400000.0,
+      "durationInTicks": 16000000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT5.56S",
+      "duration": "PT1.44S",
+      "nBest": [
+        {
+          "confidence": 0.69065624,
+          "lexical": "yeah i am getting a voice",
+          "itn": "yeah i am getting a voice",
+          "maskedITN": "Yeah, I am getting a voice.",
+          "display": "Yeah, I am getting a voice.",
+          "words": [
+            {
+              "word": "yeah",
+              "offset": "PT5.56S",
+              "duration": "PT0.28S",
+              "confidence": 0.97412777,
+              "offsetInTicks": 55600000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "word": "i",
+              "offset": "PT5.84S",
+              "duration": "PT0.28S",
+              "confidence": 0.4973845,
+              "offsetInTicks": 58400000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "word": "am",
+              "offset": "PT6.12S",
+              "duration": "PT0.08S",
+              "confidence": 0.45770362,
+              "offsetInTicks": 61200000.0,
+              "durationInTicks": 800000.0
+            },
+            {
+              "word": "getting",
+              "offset": "PT6.2S",
+              "duration": "PT0.36S",
+              "confidence": 0.96160406,
+              "offsetInTicks": 62000000.0,
+              "durationInTicks": 3600000.0
+            },
+            {
+              "word": "a",
+              "offset": "PT6.6S",
+              "duration": "PT0.12S",
+              "confidence": 0.28076366,
+              "offsetInTicks": 66000000.0,
+              "durationInTicks": 1200000.0
+            },
+            {
+              "word": "voice",
+              "offset": "PT6.72S",
+              "duration": "PT0.28S",
+              "confidence": 0.97235394,
+              "offsetInTicks": 67200000.0,
+              "durationInTicks": 2800000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 55600000.0,
+      "durationInTicks": 14400000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT7.84S",
+      "duration": "PT0.96S",
+      "nBest": [
+        {
+          "confidence": 0.6173255,
+          "lexical": "okay thank you",
+          "itn": "okay thank you",
+          "maskedITN": "Okay thank you",
+          "display": "Okay, thank you.",
+          "words": [
+            {
+              "word": "okay",
+              "offset": "PT7.84S",
+              "duration": "PT0.36S",
+              "confidence": 0.2697713,
+              "offsetInTicks": 78400000.0,
+              "durationInTicks": 3600000.0
+            },
+            {
+              "word": "thank",
+              "offset": "PT8.4S",
+              "duration": "PT0.28S",
+              "confidence": 0.60709745,
+              "offsetInTicks": 84000000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "word": "you",
+              "offset": "PT8.68S",
+              "duration": "PT0.12S",
+              "confidence": 0.9751077,
+              "offsetInTicks": 86800000.0,
+              "durationInTicks": 1200000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 78400000.0,
+      "durationInTicks": 9600000.0
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 2,
+      "offset": "PT9S",
+      "duration": "PT0.36S",
+      "nBest": [
+        {
+          "confidence": 0.9719629,
+          "lexical": "thank you",
+          "itn": "thank you",
+          "maskedITN": "Thank you",
+          "display": "Thank you.",
+          "words": [
+            {
+              "word": "thank",
+              "offset": "PT9S",
+              "duration": "PT0.28S",
+              "confidence": 0.9631112,
+              "offsetInTicks": 90000000.0,
+              "durationInTicks": 2800000.0
+            },
+            {
+              "word": "you",
+              "offset": "PT9.28S",
+              "duration": "PT0.08S",
+              "confidence": 0.9808147,
+              "offsetInTicks": 92800000.0,
+              "durationInTicks": 800000.0
+            }
+          ]
+        }
+      ],
+      "offsetInTicks": 90000000.0,
+      "durationInTicks": 3600000.0
+    }
+  ],
+  "durationInTicks": 100100000
+}

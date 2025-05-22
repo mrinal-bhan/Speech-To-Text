@@ -1,0 +1,85 @@
+{
+  "recordingId": "79cd3d3d265c951a57de2f54ea1d195f",
+  "source": "temp/79cd3d3d265c951a57de2f54ea1d195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "24100000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hi. Hello. Hi, Mr.",
+      "offset": "42300000",
+      "duration": "25600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "What are you doing?",
+      "offset": "80700000",
+      "duration": "6000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Uh, I'm working, yeah. So how are you? How was your weekend?",
+      "offset": "104700000",
+      "duration": "37600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "That's fine, Weekend is completely written the skipping.",
+      "offset": "155100000",
+      "duration": "24000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "OK, so.",
+      "offset": "200000000",
+      "duration": "21200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "What work they have in office today.",
+      "offset": "232300000",
+      "duration": "19200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Now there is a couple of uh, shears and you have to be done. It's like 12 things. One is, uh, with respect to Garda which come and I can click if you check the logs what is happening.",
+      "offset": "261500000",
+      "duration": "106000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK, so debugging use for your shifted from product to HD.",
+      "offset": "390200000",
+      "duration": "46400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I'm not able to understand anything what you said, the last residence.",
+      "offset": "450700000",
+      "duration": "26400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Nothing. It's very unclear. I agree. Even I'm not able to understand anything you are saying right now.",
+      "offset": "492500000",
+      "duration": "73200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, hello. I think I'm gonna, I'm gonna come.",
+      "offset": "586700000",
+      "duration": "43600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "We we completed one minute.",
+      "offset": "631200000",
+      "duration": "23600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

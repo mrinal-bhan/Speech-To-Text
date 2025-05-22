@@ -1,0 +1,49 @@
+{
+  "recordingId": "45fcd6352505b5334f1cc61f6c44195d",
+  "source": "temp/45fcd6352505b5334f1cc61f6c44195d.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "37300000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "I'm sorry, I can't hear you properly. Can you please speak up?",
+      "offset": "93600000",
+      "duration": "26800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Uh, this is Steve Mobile. Uh, can you hear me now?",
+      "offset": "130700000",
+      "duration": "24800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello. Who is this? Can you hear me, Sir?",
+      "offset": "167900000",
+      "duration": "39200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yes, Sir, You too. Yeah, this is Tisha from Kotak Mahindra Bank. Sir, you already taken confirm with Standard Chartered Bank, right?",
+      "offset": "217500000",
+      "duration": "74000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, but I don't have any other requirements as of now. That's why you are calling.",
+      "offset": "313700000",
+      "duration": "37200000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK. Thank you, Sir.",
+      "offset": "359500000",
+      "duration": "7600000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

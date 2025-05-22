@@ -1,0 +1,13 @@
+{
+  "recordingId": "ccfad55dc7bb03e29f7a077ed4ef195j",
+  "source": "temp/ccfad55dc7bb03e29f7a077ed4ef195j.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "OK, hello.",
+      "offset": "700000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

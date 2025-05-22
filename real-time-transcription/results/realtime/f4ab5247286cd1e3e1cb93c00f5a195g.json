@@ -1,0 +1,43 @@
+{
+  "recordingId": "f4ab5247286cd1e3e1cb93c00f5a195g",
+  "source": "temp/f4ab5247286cd1e3e1cb93c00f5a195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "20100000",
+      "duration": "4400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "57500000",
+      "duration": "3600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Yeah, yeah, Sir. Hello, Vishnu. Am I audible in your call?",
+      "offset": "79500000",
+      "duration": "28400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Yeah, yeah, you're audible now.",
+      "offset": "119900000",
+      "duration": "12800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "OK. OK. Thank you.",
+      "offset": "143500000",
+      "duration": "9200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Okay, thank you.",
+      "offset": "166700000",
+      "duration": "6800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

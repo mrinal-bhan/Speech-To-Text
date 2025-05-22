@@ -1,0 +1,19 @@
+{
+  "recordingId": "f460992a331c88841e6afc51fca7195f",
+  "source": "temp/f460992a331c88841e6afc51fca7195f.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "6700000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello. Hello. Hello, Sir. Hello. Good afternoon. Hello. IndusInd Bank, Sir.",
+      "offset": "34400000",
+      "duration": "40800000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

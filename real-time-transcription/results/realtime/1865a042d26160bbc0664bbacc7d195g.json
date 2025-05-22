@@ -1,0 +1,19 @@
+{
+  "recordingId": "1865a042d26160bbc0664bbacc7d195g",
+  "source": "temp/1865a042d26160bbc0664bbacc7d195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "6500000",
+      "duration": "2000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello uh Sir map ke location Mein AA Gaye ho aur wo lift ke andar chair se Maine rakh diya hai second floor ka number button daba ke AAP vahaan se pickup kar loge kyonki security guard theek hai haan haan haan Mein karunga. Thank you, thanks, thank you, thank you.",
+      "offset": "23900000",
+      "duration": "152400000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

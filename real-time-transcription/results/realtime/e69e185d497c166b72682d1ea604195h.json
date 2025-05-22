@@ -1,0 +1,37 @@
+{
+  "recordingId": "e69e185d497c166b72682d1ea604195h",
+  "source": "temp/e69e185d497c166b72682d1ea604195h.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello customer, this is a call from Japanese Safety Center to ensure your safety.",
+      "offset": "11900000",
+      "duration": "50400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Please press one if you're right or safe.",
+      "offset": "71500000",
+      "duration": "20000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Press 2 if you have any safety concerns and need assistance.",
+      "offset": "101900000",
+      "duration": "32800000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "We have not received a valid input from you.",
+      "offset": "207900000",
+      "duration": "24800000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Dear customer, this is a call from Zapato Safety Center to ensure you are safely. Please press one if you're right too safe.",
+      "offset": "246300000",
+      "duration": "76800000",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

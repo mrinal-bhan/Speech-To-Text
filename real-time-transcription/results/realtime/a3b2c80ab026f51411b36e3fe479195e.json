@@ -1,0 +1,43 @@
+{
+  "recordingId": "a3b2c80ab026f51411b36e3fe479195e",
+  "source": "temp/a3b2c80ab026f51411b36e3fe479195e.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "హలో.",
+      "offset": "2700000",
+      "duration": "3600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "హలో.",
+      "offset": "31200000",
+      "duration": "2400000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "బయ్య ముకుందా లిటరాయన యాత్ర.",
+      "offset": "59000000",
+      "duration": "42400000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఫిఫ్త్ ఫ్లోర్ అదే యాప్ లిఫ్ట్ మీద బిజినెస్‌.",
+      "offset": "104400000",
+      "duration": "41600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "లిఫ్ట్.",
+      "offset": "188400000",
+      "duration": "3200000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "ఓకే భయ్యా. థాంక్స్.",
+      "offset": "214400000",
+      "duration": "15200000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}

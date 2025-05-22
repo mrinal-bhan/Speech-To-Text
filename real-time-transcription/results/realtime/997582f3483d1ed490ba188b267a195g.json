@@ -1,0 +1,43 @@
+{
+  "recordingId": "997582f3483d1ed490ba188b267a195g",
+  "source": "temp/997582f3483d1ed490ba188b267a195g.wav",
+  "detectedLanguage": null,
+  "recognizedPhrases": [
+    {
+      "text": "Hello.",
+      "offset": "12600000",
+      "duration": "4000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Hello.",
+      "offset": "93400000",
+      "duration": "2000000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "Is this Bhagavad speaking, Sir? Yeah, tell me regarding.",
+      "offset": "110000000",
+      "duration": "33600000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Thank you for confirming your name Sir. My name is Sirisha. I am calling on behalf of SBI Card Sir.",
+      "offset": "168300000",
+      "duration": "43600000",
+      "speaker": "Speaker 2"
+    },
+    {
+      "text": "HDFC no, not required. Thank you.",
+      "offset": "223900000",
+      "duration": "16000000",
+      "speaker": "Speaker 1"
+    },
+    {
+      "text": "Sir.",
+      "offset": "257100000",
+      "duration": "1600000",
+      "speaker": "Speaker 2"
+    }
+  ]
+}
