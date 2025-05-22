@@ -132,8 +132,6 @@ Azure/
 
 2. Make sure you have ffmpeg installed for audio conversion:
    - On macOS: `brew install ffmpeg`
-   - On Ubuntu/Debian: `apt-get install ffmpeg`
-   - On Windows: Download from [ffmpeg.org](https://ffmpeg.org/download.html)
 
 ## Usage
 
@@ -227,6 +225,4 @@ Real-time transcription offers several advantages over batch transcription:
 2. **Improved speaker diarization**: More accurate attribution of speech to speakers
 3. **Higher accuracy**: Generally more accurate for conversational and multilingual audio
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
