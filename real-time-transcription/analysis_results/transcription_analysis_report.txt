@@ -1,0 +1,30 @@
+=== Transcription Analysis Report ===
+Generated on: 2025-05-22 10:20:26
+
+Total Recordings Analyzed: 211
+
+Speaker Distribution:
+  1 speaker(s): 40 recordings
+  2 speaker(s): 171 recordings
+
+Language Distribution:
+  en-IN: 151 instances (71.6%)
+  hi-IN: 86 instances (40.8%)
+  te-IN: 9 instances (4.3%)
+  Mixed-language recordings: 74 instances (35.1%)
+  Unknown language: 40 instances (19.0%)
+
+Duration Statistics:
+  Average duration: 332.24 seconds
+  Shortest recording: 2.00 seconds
+  Longest recording: 6150.00 seconds
+
+Segment Statistics:
+  Average segments per recording: 6.31
+  Max segments in a recording: 73
+  Average segment duration: 23.82 seconds
+
+Silence Patterns:
+  Average silence between segments: 25.57 seconds
+  Maximum silence observed: 397.70 seconds
+
