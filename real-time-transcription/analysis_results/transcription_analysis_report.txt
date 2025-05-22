@@ -1,11 +1,53 @@
 === Transcription Analysis Report ===
-Generated on: 2025-05-22 10:20:26
+Generated on: 2025-05-22 11:54:31
 
 Total Recordings Analyzed: 211
 
 Speaker Distribution:
   1 speaker(s): 40 recordings
   2 speaker(s): 171 recordings
+
+Single Speaker Recording IDs:
+  104eb02bb3aba8a4450215e195e6195d
+  13b7d0949881f0810b30b6b5a955195j
+  1efcf617984f55b38bb855baaace195g
+  20d209fec64ea51dbc4281799faa195c
+  22deed95399ed0beba56d0376087195j
+  31ae08445f47e0b3f881d0978dfb195c
+  38252f0ec9399bbaf077185e7ca2195d
+  3ab879852a1bd6a98b192729499f195d
+  3c1d73572ef851c5f44a71c681d6195c
+  3e072e7ac727a9c4a2507915050d195d
+  487328de610e980c862fdc0622b1195g
+  49d421ded2584e470784c456f720195d
+  4b132f2a9674b79bbc5943842d82195e
+  4c08bdbbd331f1efce7636a83c97195c
+  4eea4fed72e55643ad87bb565444195h
+  500d4e8fe0605f3f3b7160335b31195f
+  593b0a167fc0126ad9d3138f6510195f
+  706a2d3f9d110248f03f2fe61fd8195e
+  74620f040a312084ee8a35af46e4195d
+  788e06d06140c2155af2a01dec72195h
+  7f25d86b90ed268ad4466461223e195f
+  86c3fbd65de11f4eed7cac986819195i
+  8afa6aa991499d992da3114a8fba195d
+  8d56f9eddde6de72d2aa3e3368bf195c
+  8ddfaec4afbb552ceea1098d5475195f
+  8ea386957e2c942cd89f7c00e8ca195c
+  ac16d5ad027becc97662079834a1195e
+  ad8030b50211d58ba51f6c5a4016195c
+  b0e5a4210458b8b9961bdcf2a6ad195e
+  b4fde5bd27e4c52a2e585be2d7a5195f
+  b568382d8dce98d8ec7ca052415a195f
+  c018a9d317e5bf45c1c1f15b7430195e
+  c35d80ce95ee854d1fc2c114cb28195e
+  cc23ca120f5b94ec8429ab9ecf26195c
+  ccfad55dc7bb03e29f7a077ed4ef195j
+  cfc73c818d989dda98e4309f9545195g
+  d01df9bce9cec246ea0abc9a52ea195d
+  d93419812fd1a110a96910c405c4195i
+  e633f85fd3c6db75646eba13dd6f195g
+  fe08da504dccc2c244adbc15b043195c
 
 Language Distribution:
   en-IN: 151 instances (71.6%)
@@ -15,16 +57,23 @@ Language Distribution:
   Unknown language: 40 instances (19.0%)
 
 Duration Statistics:
-  Average duration: 332.24 seconds
-  Shortest recording: 2.00 seconds
-  Longest recording: 6150.00 seconds
+  Average duration: 33.22 seconds
+  Shortest recording: 0.20 seconds
+  Longest recording: 615.00 seconds
+
+Duration Distribution:
+  0-1 min: 185 recordings (87.7%)
+  1-5 mins: 22 recordings (10.4%)
+  5-10 mins: 3 recordings (1.4%)
+  10-30 mins: 1 recordings (0.5%)
+  30+ mins: 0 recordings (0.0%)
 
 Segment Statistics:
   Average segments per recording: 6.31
   Max segments in a recording: 73
-  Average segment duration: 23.82 seconds
+  Average segment duration: 2.38 seconds
 
 Silence Patterns:
-  Average silence between segments: 25.57 seconds
-  Maximum silence observed: 397.70 seconds
+  Average silence between segments: 2.56 seconds
+  Maximum silence observed: 39.77 seconds
 
