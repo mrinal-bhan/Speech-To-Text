@@ -1,6 +1,6 @@
 # Azure Real-Time Transcription
 
-This package contains scripts for processing and transcribing audio recordings using Azure Speech Services.
+This contains scripts for processing and transcribing audio recordings using Azure Speech Services.
 
 ## Setup Environment Variables
 
